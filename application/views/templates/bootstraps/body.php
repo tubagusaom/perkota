@@ -23,34 +23,34 @@
             </div>
         </div>
 
-        <!-- <div class="row tm-section-pad-top">
+        <div class="row tm-section-pad-top">
             <div class="col-lg-4">
-                <i class="fas fa-4x fa-bus text-center tm-icon"></i>
-                <h4 class="text-center tm-text-primary mb-4">LRT & MRT</h4>
-                <p>
+                <i class="fas fa-4x fa-train text-center tm-icon"></i>
+                <h4 class="text-center tm-text-primary mb-4">LRT , MRT , KAI</h4>
+                <!-- <p>
                     But basketball is more important than football. If you are not pregnant tomorrow, and who is having children now? Aenean to adorn the lake. Home financing just for the lake.
-                </p>
+                </p> -->
             </div>
 
             <div class="col-lg-4 mt-5 mt-lg-0">
-                <i class="fas fa-4x fa-bicycle text-center tm-icon"></i>
-                <h4 class="text-center tm-text-primary mb-4">Nunc sed metus vel nisi</h4>
-                <p>
+                <i class="fas fa-4x fa-bus text-center tm-icon"></i>
+                <h4 class="text-center tm-text-primary mb-4">Bus Trans Jakarta</h4>
+                <!-- <p>
                     Praesent ut finibus leo. Duis et tempus ipsum, id pretium nunc.
                     Vivamus imperdiet sem quis orci pharetra convallis. Nunc a tempus
                     nisi, sed fringilla purus. In hac habitasse platea.
-                </p>
+                </p> -->
             </div>
             <div class="col-lg-4 mt-5 mt-lg-0">
-                <i class="fas fa-4x fa-city text-center tm-icon"></i>
-                <h4 class="text-center tm-text-primary mb-4">Fusce sed nisi sagittis</h4>
-                <p>
+                <i class="fas fa-4x fa-bicycle text-center tm-icon"></i>
+                <h4 class="text-center tm-text-primary mb-4">Bicycle</h4>
+                <!-- <p>
                     Donec vestibulum libero nisl. Curabitur ac orci ac lorem blandit
                     volutpat. Sed ac sodales nibh, ut porttitor elit. Sed id dui mi.
                     Vestibulum ante ipsum primis in faucibus.
-                </p>
+                </p> -->
             </div>
-        </div> -->
+        </div>
 </section>
 <section id="work" class="tm-section-pad-top">
     <div class="container tm-container-gallery">
@@ -66,19 +66,19 @@
             <div class="col-12">
                 <div class="mx-auto tm-gallery-container">
                     <div class="grid tm-gallery">
-                        <a href="<?php echo base_url() ?>assets_perkota/img/gallery-img-01.jpg">
+                        <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_1.png">
                             <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/gallery-tn-01.jpg" alt="Image" class="img-fluid">
+                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_1.png" alt="Image" class="img-fluid">
                                 <figcaption>
-                                    <h2><i>Dreamy <span>Honey</span> Now</i></h2>
+                                    <h2><i>Museum Seni Rupa dan Keramik</i></h2>
                                 </figcaption>
                             </figure>
                         </a>
-                        <a href="<?php echo base_url() ?>assets_perkota/img/gallery-img-02.jpg">
+                        <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_2.png">
                             <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/gallery-tn-02.jpg" alt="Image" class="img-fluid">
+                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_2.png" alt="Image" class="img-fluid">
                                 <figcaption>
-                                    <h2><i>Second <span>Honey</span> Now</i></h2>
+                                    <h2><i>Museum Wayang</i></h2>
                                 </figcaption>
                             </figure>
                         </a>
