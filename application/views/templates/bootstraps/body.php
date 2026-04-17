@@ -70,7 +70,9 @@
                             <figure class="effect-honey tm-gallery-item">
                                 <img src="<?php echo base_url() ?>assets_perkota/img/destination_1.png" alt="Image" class="img-fluid">
                                 <figcaption>
-                                    <h2><i>Museum Seni Rupa dan Keramik</i></h2>
+                                    <h2 style="font-size: 0.9rem!important;">
+                                      <i>Museum <span>Seni Rupa dan Keramik</span></i>
+                                    </h2>
                                 </figcaption>
                             </figure>
                         </a>
@@ -78,23 +80,29 @@
                             <figure class="effect-honey tm-gallery-item">
                                 <img src="<?php echo base_url() ?>assets_perkota/img/destination_2.png" alt="Image" class="img-fluid">
                                 <figcaption>
-                                    <h2><i>Museum Wayang</i></h2>
+                                    <h2 style="font-size: 0.9rem!important;">
+                                      <i>Museum <span>Wayang</span></i>
+                                    </h2>
                                 </figcaption>
                             </figure>
                         </a>
-                        <a href="<?php echo base_url() ?>assets_perkota/img/gallery-img-03.jpg">
+                        <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_3.png">
                             <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/gallery-tn-03.jpg" alt="Image" class="img-fluid">
+                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_3.png" alt="Image" class="img-fluid">
                                 <figcaption>
-                                    <h2><i>Third <span>Honey</span> Now</i></h2>
+                                    <h2 style="font-size: 0.9rem!important;">
+                                      <i>Museum <span>Bahari</span></i>
+                                    </h2>
                                 </figcaption>
                             </figure>
                         </a>
-                        <a href="<?php echo base_url() ?>assets_perkota/img/gallery-img-04.jpg">
+                        <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_4.png">
                             <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/gallery-tn-04.jpg" alt="Image" class="img-fluid">
+                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_4.png" alt="Image" class="img-fluid">
                                 <figcaption>
-                                    <h2><i>Dreamy <span>Honey</span> Now</i></h2>
+                                    <h2 style="font-size: 0.9rem!important;">
+                                      <i>Museum <span>Bank Indonesia</span></i>
+                                    </h2>
                                 </figcaption>
                             </figure>
                         </a>
@@ -102,7 +110,9 @@
                             <figure class="effect-honey tm-gallery-item">
                                 <img src="<?php echo base_url() ?>assets_perkota/img/gallery-tn-05.jpg" alt="Image" class="img-fluid">
                                 <figcaption>
-                                    <h2><i>Fifth <span>Honey</span> Now</i></h2>
+                                    <h2 style="font-size: 0.9rem!important;">
+                                      <i>Fifth <span>Honey</span> Now</i>
+                                    </h2>
                                 </figcaption>
                             </figure>
                         </a>
@@ -110,7 +120,9 @@
                             <figure class="effect-honey tm-gallery-item">
                                 <img src="<?php echo base_url() ?>assets_perkota/img/gallery-tn-06.jpg" alt="Image" class="img-fluid">
                                 <figcaption>
-                                    <h2><i>Sixth <span>Honey</span> Now</i></h2>
+                                    <h2 style="font-size: 0.9rem!important;">
+                                      <i>Sixth <span>Honey</span> Now</i>
+                                    </h2>
                                 </figcaption>
                             </figure>
                         </a>
@@ -118,7 +130,9 @@
                             <figure class="effect-honey tm-gallery-item">
                                 <img src="<?php echo base_url() ?>assets_perkota/img/gallery-tn-01.jpg" alt="Image" class="img-fluid">
                                 <figcaption>
-                                    <h2><i>Dreamy <span>Honey</span> Now</i></h2>
+                                    <h2 style="font-size: 0.9rem!important;">
+                                      <i>Dreamy <span>Honey</span> Now</i>
+                                    </h2>
                                 </figcaption>
                             </figure>
                         </a>
@@ -126,7 +140,9 @@
                             <figure class="effect-honey tm-gallery-item">
                                 <img src="<?php echo base_url() ?>assets_perkota/img/gallery-tn-02.jpg" alt="Image" class="img-fluid">
                                 <figcaption>
-                                    <h2><i>Eighth <span>Honey</span> Now</i></h2>
+                                    <h2 style="font-size: 0.9rem!important;">
+                                      <i>Eighth <span>Honey</span> Now</i>
+                                    </h2>
                                 </figcaption>
                             </figure>
                         </a>
