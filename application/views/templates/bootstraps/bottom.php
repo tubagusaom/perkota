@@ -7,32 +7,32 @@
                 <div class="mb-5 tm-underline">
                     <div class="tm-underline-inner"></div>
                 </div>
-                <p class="mb-5">
+                <!-- <p class="mb-5">
                     There is no tincidunt, the lacus a suscipit luctus, the elit turpis tincidunt dui, no time sem
                     turpis vitae lorem. Maecenas needs hate in the game of life cartoons or leo. Curabitur at elit eu
                     risus pharetra pellentesque at at velit.
-                </p>
+                </p> -->
             </div>
 
-            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+            <div class="col-sm-6 col-md-6 d-flex align-items-center tm-contact-item">
                 <a href="tel:0100200340" class="tm-contact-item-link">
                     <i class="fas fa-3x fa-phone mr-4"></i>
                     <span class="mb-0">010-020-0340</span>
                 </a>
             </div>
-            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+            <div class="col-sm-6 col-md-6 d-flex align-items-center tm-contact-item">
                 <a href="mailto:info@perkota.com" class="tm-contact-item-link">
                     <i class="fas fa-3x fa-envelope mr-4"></i>
                     <span class="mb-0">info@perkota.com</span>
                 </a>
             </div>
-            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+            <div class="col-sm-6 col-md-6 d-flex align-items-center tm-contact-item">
                 <a href="https://www.google.com/maps" class="tm-contact-item-link">
                     <i class="fas fa-3x fa-map-marker-alt mr-4"></i>
                     <span class="mb-0">Location on Maps</span>
                 </a>
             </div>
-            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+            <div class="col-sm-6 col-md-6 d-flex align-items-center tm-contact-item">
                 <form action="" method="get">
                     <input name="email" type="email" placeholder="Subscribe your email" class="tm-input" required />
                     <button type="submit" class="btn tm-btn-submit">Submit</button>
