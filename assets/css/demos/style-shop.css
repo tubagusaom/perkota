@@ -1,0 +1,31 @@
+.a-tb-wa{
+  color: #4ced69!important;
+  font-size: 12px!important;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: bold!important;
+}
+.a-tb-wa:focus{
+  color: #4ced69!important;
+  text-decoration: none!important;
+}
+.a-tb-wa:hover{
+  color: #79ff91!important;
+  text-decoration: none!important;
+}
+
+a.a-decoration-none{
+  text-decoration: none;
+}
+a.a-decoration-none:hover{
+  color: #eee!important;
+}
+.tb-name:hover{
+  color: yellow!important;
+  cursor: none;
+}
+
+@media (max-width: 992px) {
+  .stickytb{
+    position: fixed;
+  }
+}

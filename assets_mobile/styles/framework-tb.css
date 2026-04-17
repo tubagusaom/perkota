@@ -1,0 +1,112 @@
+/* Framework-tb.CSS
+
+    Template Name:      tera.bytee Mobile Templates
+    Author:             @tera.bytee
+
+*/
+
+.hide-tb {
+    display: none;
+}
+
+.show-tb {
+    display: block;
+}
+
+#close-tb-1,
+#close-tb-2
+{
+    position:fixed;
+    top:0px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    z-index:99;
+
+    cursor: pointer;
+}
+
+.justify-tb{
+    text-align: justify;
+}
+
+.decoration-tb{
+    height:1px;
+    display:block;
+    margin-bottom:30px;
+    clear:both!important;
+    background-color:transparent;
+}
+
+.header-light-tb{
+    background-color:#FFFFFF;
+    box-shadow: 0 0 15px 1px rgba(0,0,0,0.15);
+}
+.header-light-tb .header-icon{
+    color:#1f1f1f;
+}
+
+.bg-dark-tb{
+    /* background-color:rgba(0,0,0,0.3)!important; */
+    background-color: rgba(28,42,95,0.3)!important;
+}
+
+/* .jumlah-angka{
+    float: right;
+    margin: 10px;
+    padding: 0 2px 0 2px !important;
+    background: #db0c13;
+    border: 1px solid #1c2a5f;
+    color:#fff;
+
+    width: 20px;
+	height: 20px;
+	border-radius: 100%;
+} */
+
+.box-categories {
+    position: relative;
+    z-index: 1;
+}
+    
+.box-angka {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    font-size: 8px;
+    margin: 10px;
+    border-radius: 100%;
+    z-index: 2;
+}
+
+.box-angka-light-blue {
+    background: #5D9CEC;
+    box-shadow: rgba(28, 42, 95, 0.4) 0px 2px 4px, rgba(28, 42, 95, 0.3) 0px 7px 13px -3px, rgba(28, 42, 95, 0.2) 0px -3px 0px inset;
+}
+
+.box-angka-blue {
+    background: #1c2a5f;
+    box-shadow: rgba(28, 42, 95, 0.4) 0px 2px 4px, rgba(28, 42, 95, 0.3) 0px 7px 13px -3px, rgba(28, 42, 95, 0.2) 0px -3px 0px inset;
+}
+
+.box-angka-red {
+    background: #db0c13;
+    box-shadow: rgba(28, 42, 95, 0.4) 0px 2px 4px, rgba(28, 42, 95, 0.3) 0px 7px 13px -3px, rgba(28, 42, 95, 0.2) 0px -3px 0px inset;
+}
+
+.box-angka-green {
+    background: #018d0b;
+    box-shadow: rgba(28, 42, 95, 0.4) 0px 2px 4px, rgba(28, 42, 95, 0.3) 0px 7px 13px -3px, rgba(28, 42, 95, 0.2) 0px -3px 0px inset;
+}
+    
+.text-angka {
+    position: absolute;
+    z-index: 2;
+    float: right;
+    left: 50%;
+    top: 53%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px #1c2a5f;
+    letter-spacing: 1px;
+}
