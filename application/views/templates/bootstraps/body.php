@@ -17,7 +17,7 @@
                         Curabitur dapibus tristique enim a imperdiet. Etiam
                         tristique sem sed condimentum posuere. </p>
                     <div class="tm-next">
-                        <a href="#work" class="tm-intro-text tm-btn-primary">Read More</a>
+                        <a href="<?=base_url()?>pergub-dki.pdf" class="tm-intro-text tm-btn-primary" download><i class="fa fa-download"></i> Pergub DKI</a>
                     </div>
                 </div>
             </div>
@@ -26,7 +26,7 @@
         <!-- <div class="row tm-section-pad-top">
             <div class="col-lg-4">
                 <i class="fas fa-4x fa-bus text-center tm-icon"></i>
-                <h4 class="text-center tm-text-primary mb-4">I chatted with football fans</h4>
+                <h4 class="text-center tm-text-primary mb-4">LRT & MRT</h4>
                 <p>
                     But basketball is more important than football. If you are not pregnant tomorrow, and who is having children now? Aenean to adorn the lake. Home financing just for the lake.
                 </p>
@@ -58,9 +58,7 @@
             <div class="text-center col-12">
                 <h2 class="tm-text-primary tm-section-title mb-4">Destination</h2>
                 <p class="mx-auto tm-work-description">
-                    "Curabitur ac orci ac lorem blandit volutpat. Sed ac sodales nibh, ut
-                    porttitor elit. Sed id dui mi. Vestibulum ante ipsum primis in faucibus
-                    orci luctus et ultrices posuere cubilia."
+                    "Chat and therapy and the internet flatters the weekend. But as members of the budget, such as the airline. But that is my god. In front of him, first of all, in the throats of the hospital, to lay the beds of mourning and basketball."
                 </p>
             </div>
         </div>
