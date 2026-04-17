@@ -106,7 +106,7 @@
                                 </figcaption>
                             </figure>
                         </a>
-                        <a href="<?php echo base_url() ?>assets_perkota/img/gallery-img-05.jpg">
+                        <!-- <a href="<?php echo base_url() ?>assets_perkota/img/gallery-img-05.jpg">
                             <figure class="effect-honey tm-gallery-item">
                                 <img src="<?php echo base_url() ?>assets_perkota/img/gallery-tn-05.jpg" alt="Image" class="img-fluid">
                                 <figcaption>
@@ -145,7 +145,7 @@
                                     </h2>
                                 </figcaption>
                             </figure>
-                        </a>
+                        </a> -->
                     </div>
                 </div>
             </div>
