@@ -10,6 +10,10 @@ html {
   font-size: 18px;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 body {
   color: #8f8f8f;
   margin: 0;
