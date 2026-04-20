@@ -8,10 +8,10 @@
             <div class="col-lg-6">
                 <div class="tm-intro-text-container">
                     <h2 class="tm-text-primary mb-4 tm-section-title">Introduction</h2>
-                    <p class="mb-4 tm-intro-text">
+                    <!-- <p class="mb-4 tm-intro-text">
                         The Town is <strong>simple CSS template</strong> built on Bootstrap v4.1.3
                         and this is a little parallax layout that you can use for your websites.
-                    </p>
+                    </p> -->
                     <p class="mb-5 tm-intro-text">
                         Please tell your friends about our site
                         <a rel="nofollow" href="https://terabytee.my.id">terabytee</a>. Thank you.
@@ -115,46 +115,6 @@
                                 </figcaption>
                             </figure>
                         </a>
-                        <!-- <a href="<?php echo base_url() ?>assets_perkota/img/gallery-img-05.jpg">
-                            <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/gallery-tn-05.jpg" alt="Image" class="img-fluid">
-                                <figcaption>
-                                    <h2 style="font-size: 0.9rem!important;">
-                                      <i>Fifth <span>Honey</span> Now</i>
-                                    </h2>
-                                </figcaption>
-                            </figure>
-                        </a>
-                        <a href="<?php echo base_url() ?>assets_perkota/img/gallery-img-06.jpg">
-                            <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/gallery-tn-06.jpg" alt="Image" class="img-fluid">
-                                <figcaption>
-                                    <h2 style="font-size: 0.9rem!important;">
-                                      <i>Sixth <span>Honey</span> Now</i>
-                                    </h2>
-                                </figcaption>
-                            </figure>
-                        </a>
-                        <a href="<?php echo base_url() ?>assets_perkota/img/gallery-img-01.jpg">
-                            <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/gallery-tn-01.jpg" alt="Image" class="img-fluid">
-                                <figcaption>
-                                    <h2 style="font-size: 0.9rem!important;">
-                                      <i>Dreamy <span>Honey</span> Now</i>
-                                    </h2>
-                                </figcaption>
-                            </figure>
-                        </a>
-                        <a href="<?php echo base_url() ?>assets_perkota/img/gallery-img-02.jpg">
-                            <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/gallery-tn-02.jpg" alt="Image" class="img-fluid">
-                                <figcaption>
-                                    <h2 style="font-size: 0.9rem!important;">
-                                        <i>Eighth <span>Honey</span> Now</i>
-                                    </h2>
-                                </figcaption>
-                            </figure>
-                        </a> -->
                     </div>
                 </div>
             </div>
@@ -162,88 +122,41 @@
     </div>
 </section>
 
-<section id="event" class="tb-section-pad-top">
-    <div class="container tm-container-gallery">
+<section id="event" class="tb-embed-pad-top">
 
-        <div class="row">
-            <div class="text-center col-12">
-                <h2 class="tm-text-primary tm-section-title mb-4">Event</h2>
-                <p class="mx-auto tm-work-description">
-                    "Event di kota tua jakarta."
-                </p>
-            </div>
+    <div class="row">
+        <div class="text-center col-12">
+            <h2 class="tm-text-primary tm-section-title mb-4">Event</h2>
+            <p class="mx-auto tm-work-description">
+                "Event di kota tua jakarta."
+            </p>
         </div>
-        <div class="row">
-            <div class="col-12">
-                <div class="mx-auto tm-gallery-container">
-                    <div class="grid tm-gallery">
-                        <a href="https://scontent-cgk1-2.cdninstagram.com/v/t51.82787-15/672393083_18447327544114334_3405208322510407118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg3Njk1NTA3MzE2MzEzMTc1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTYwOS5zZHIuQzMifQ%3D%3D&_nc_ohc=OcmhYRP-AqkQ7kNvwE_rHU4&_nc_oc=AdohEdD5RYMPbj2rfEgw3ybLOjeStM-0a8rOkd32Z6j-A_9dhkR3USaMPne-A5NBs6w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cgk1-2.cdninstagram.com&_nc_gid=qv14qaihowmPwXPi6D71QA&_nc_ss=7a32e&oh=00_Af0OcRp-VeLdn1dSjhAophy82tKfoEr7FiHbttDyB-rTFA&oe=69EBA6D8">
-                            <figure class="effect-honey tm-gallery-item" style="height:275px!important;">
-                                <img src="https://scontent-cgk1-2.cdninstagram.com/v/t51.82787-15/672393083_18447327544114334_3405208322510407118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg3Njk1NTA3MzE2MzEzMTc1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTYwOS5zZHIuQzMifQ%3D%3D&_nc_ohc=OcmhYRP-AqkQ7kNvwE_rHU4&_nc_oc=AdohEdD5RYMPbj2rfEgw3ybLOjeStM-0a8rOkd32Z6j-A_9dhkR3USaMPne-A5NBs6w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cgk1-2.cdninstagram.com&_nc_gid=qv14qaihowmPwXPi6D71QA&_nc_ss=7a32e&oh=00_Af0OcRp-VeLdn1dSjhAophy82tKfoEr7FiHbttDyB-rTFA&oe=69EBA6D8" alt="Image"
-                                    class="img-fluid">
-                                <figcaption>
-                                    <h2 style="font-size: 0.9rem!important;">
-                                        <i>Paskah <span>Kota Tua</span></i>
-                                    </h2>
-                                </figcaption>
-                            </figure>
-                            <div style="text-align: center;">Paskah di Kota Tua</div>
-                        </a>
+    </div>
 
-                        <a href="https://scontent-cgk2-1.cdninstagram.com/v/t51.71878-15/661993163_1431826071585893_6060903658187651909_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzg3MDA4NTE2OTYwOTI5MDc1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHg4MDAuc2RyLkMzIn0%3D&_nc_ohc=wsiVY8hOnGoQ7kNvwE2UBHy&_nc_oc=AdrScJhSQQ4h9xpQDoVKzyVK66IbzhUvF545DUqBhETZ03QGq25TYijHnEuLOVI3Wiw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cgk2-1.cdninstagram.com&_nc_gid=xU8etYKEOqM9HAzRbEAt1A&_nc_ss=7a32e&oh=00_Af0bwgz1QfdOFV_cLE3Qb3MErx6wWKUge10JphlBSglRMQ&oe=69EBA21C">
-                            <figure class="effect-honey tm-gallery-item" style="height:275px!important;">
-                                <img src="https://scontent-cgk2-1.cdninstagram.com/v/t51.71878-15/661993163_1431826071585893_6060903658187651909_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzg3MDA4NTE2OTYwOTI5MDc1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHg4MDAuc2RyLkMzIn0%3D&_nc_ohc=wsiVY8hOnGoQ7kNvwE2UBHy&_nc_oc=AdrScJhSQQ4h9xpQDoVKzyVK66IbzhUvF545DUqBhETZ03QGq25TYijHnEuLOVI3Wiw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cgk2-1.cdninstagram.com&_nc_gid=xU8etYKEOqM9HAzRbEAt1A&_nc_ss=7a32e&oh=00_Af0bwgz1QfdOFV_cLE3Qb3MErx6wWKUge10JphlBSglRMQ&oe=69EBA21C" alt="Image"
-                                    class="img-fluid">
-                                <figcaption>
-                                    <h2 style="font-size: 0.9rem!important;">
-                                        <i>Halal Bihalal <span>Kota Tua</span></i>
-                                    </h2>
-                                </figcaption>
-                            </figure>
-                            <div style="text-align: center;">Halal Bihalal di Kota Tua</div>
-                        </a>
+    <div class="tm-container-gallery">
 
-                        <a href="https://scontent-cgk2-2.cdninstagram.com/v/t51.71878-15/656631872_2482839968843607_3424357820821889780_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=100&ig_cache_key=Mzg1OTg3OTcyNjUwNDA2MjY1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2Lmhkci5DMyJ9&_nc_ohc=yJSnZsIc1mYQ7kNvwGDVCyq&_nc_oc=AdoxW1WFOeVjCFzRSioWAP57xSeFDohjcGdVMI-cCNtwa9mOdL7QuxzRirGv9O6lfTI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-cgk2-2.cdninstagram.com&_nc_gid=FuM7rdW0zSbiWAi7o6iqZQ&_nc_ss=7a32e&oh=00_Af3qscjzdnxmjUR7pWeolMr2bihm1C21ImO1QjXlXRLENw&oe=69EBAC8D">
-                            <figure class="effect-honey tm-gallery-item" style="height:275px!important;">
-                                <img src="https://scontent-cgk2-2.cdninstagram.com/v/t51.71878-15/656631872_2482839968843607_3424357820821889780_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=100&ig_cache_key=Mzg1OTg3OTcyNjUwNDA2MjY1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2Lmhkci5DMyJ9&_nc_ohc=yJSnZsIc1mYQ7kNvwGDVCyq&_nc_oc=AdoxW1WFOeVjCFzRSioWAP57xSeFDohjcGdVMI-cCNtwa9mOdL7QuxzRirGv9O6lfTI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-cgk2-2.cdninstagram.com&_nc_gid=FuM7rdW0zSbiWAi7o6iqZQ&_nc_ss=7a32e&oh=00_Af3qscjzdnxmjUR7pWeolMr2bihm1C21ImO1QjXlXRLENw&oe=69EBAC8D" alt="Image"
-                                    class="img-fluid">
-                                <figcaption>
-                                    <h2 style="font-size: 0.9rem!important;">
-                                        <i>Lebaran <span>Kota Tua</span></i>
-                                    </h2>
-                                </figcaption>
-                            </figure>
-                            <div style="text-align: center;">Lebaran di Kota Tua</div>
-                        </a>
+        
 
-                        <a href="https://scontent-cgk1-2.cdninstagram.com/v/t51.82787-15/627389374_18303367969282265_8541973125736505646_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzgyNjI3MDY1NzYzNzg5MTg2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=9FPz6GMhOHkQ7kNvwGnou-r&_nc_oc=Adqep5nYKYjiVF4PpFDTNV8pIEtB-JhiTdPOmxtYWRCUKbGSLX2yze43WpDM7J9i7SU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cgk1-2.cdninstagram.com&_nc_gid=4i3zmyEN37ZtAOguRBYO4A&_nc_ss=7a32e&oh=00_Af39R5_r9iczbX6YhY5_rD7GI9nF7hFJKd5IqAfzpym41g&oe=69EBD3CB">
-                            <figure class="effect-honey tm-gallery-item" style="height:275px!important;">
-                                <img src="https://scontent-cgk1-2.cdninstagram.com/v/t51.82787-15/627389374_18303367969282265_8541973125736505646_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzgyNjI3MDY1NzYzNzg5MTg2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=9FPz6GMhOHkQ7kNvwGnou-r&_nc_oc=Adqep5nYKYjiVF4PpFDTNV8pIEtB-JhiTdPOmxtYWRCUKbGSLX2yze43WpDM7J9i7SU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cgk1-2.cdninstagram.com&_nc_gid=4i3zmyEN37ZtAOguRBYO4A&_nc_ss=7a32e&oh=00_Af39R5_r9iczbX6YhY5_rD7GI9nF7hFJKd5IqAfzpym41g&oe=69EBD3CB" alt="Image"
-                                    class="img-fluid">
-                                <figcaption>
-                                    <h2 style="font-size: 0.9rem!important;">
-                                        <i>Chinese New Year <span>Kota Tua</span></i>
-                                    </h2>
-                                </figcaption>
-                            </figure>
-                            <div style="text-align: center;">Chinese New Year</div>
-                        </a>
 
-                        <!-- <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_4.png">
-                            <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_4.png" alt="Image"
-                                    class="img-fluid">
-                                <figcaption>
-                                    <h2 style="font-size: 0.9rem!important;">
-                                        <i>Museum <span>Bank Indonesia</span></i>
-                                    </h2>
-                                </figcaption>
-                            </figure>
-                        </a> -->
+        <div class="embed-tb">
+            <div class="tm-gallery-container">
+                <div class=" grid tm-gallery">
+                    <div class="">
+                        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DXNthkaCXto/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/DXNthkaCXto/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/DXNthkaCXto/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Pemprov DKI Jakarta (@dkijakarta)</a></p></div></blockquote>
+                    </div>
+
+                    <div class="">
+                        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DW1TfUJEbQE/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/reel/DW1TfUJEbQE/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/DW1TfUJEbQE/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Disparekraf DKI Jakarta (@disparekrafdki)</a></p></div></blockquote>
+                    </div>
+                    
+                    <div class="">
+                        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DUZpa3FgZGg/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/DUZpa3FgZGg/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/DUZpa3FgZGg/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Upk Kotatua (@kotatua.jkt)</a></p></div></blockquote>
                     </div>
                 </div>
             </div>
         </div>
+
+        <script async src="//www.instagram.com/embed.js"></script>
 
     </div>
 </section>

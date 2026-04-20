@@ -20,9 +20,9 @@
     <meta name="author" content="terabytee.my.id">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="<?= base_url() ?>assets_perkota/images/icon-perkota.jpg" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="<?= base_url() ?>assets_perkota/images/icon-perkota.jpg">
-    <link rel="icon" href="<?= base_url() ?>assets_perkota/images/icon-perkota.jpg" type="image/x-icon">
+    <link rel="shortcut icon" href="<?= base_url() ?>assets_perkota/images/logo_perkota.jpg" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="<?= base_url() ?>assets_perkota/images/logo_perkota.jpg">
+    <link rel="icon" href="<?= base_url() ?>assets_perkota/images/logo_perkota.jpg" type="image/x-icon">
 
     <!-- Mobile Metas -->
     <!-- <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"> -->

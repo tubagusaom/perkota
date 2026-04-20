@@ -39,6 +39,7 @@ a:focus {
 
 .tm-section-pad-top {
   padding-top: 135px;
+  /* padding-bottom: 88px; */
 }
 
 .tb-section-pad-top {
@@ -602,4 +603,35 @@ p {
     margin-left: 0;
     margin-top: 20px;
   }
+}
+
+
+#intro,
+#event {
+  background-color: #eee;
+}
+
+
+
+.tb-embed-pad-top {
+  padding-top: 85px;
+  padding-bottom: 180px;
+  margin-top: 188px;
+}
+
+.embed-tb {
+  /* background-color: red; */
+  height: 600px;
+}
+
+.instagram-media {
+  background-color: #eee !important;
+  padding: 5px !important;
+  height: 498px !important;
+  border: none !important;
+  min-width: 100% !important;
+}
+
+.embed-tb .slick-dots {
+    bottom: 0px;
 }

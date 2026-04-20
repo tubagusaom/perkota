@@ -15,9 +15,9 @@
             </div>
 
             <div class="col-sm-6 col-md-6 d-flex align-items-center tm-contact-item">
-                <a href="tel:0100200340" class="tm-contact-item-link">
+                <a href="tel:0210000000" class="tm-contact-item-link">
                     <i class="fas fa-3x fa-phone mr-4"></i>
-                    <span class="mb-0">010-020-0340</span>
+                    <span class="mb-0">021-000-0000</span>
                 </a>
             </div>
             <div class="col-sm-6 col-md-6 d-flex align-items-center tm-contact-item">
@@ -27,7 +27,7 @@
                 </a>
             </div>
             <div class="col-sm-6 col-md-6 d-flex align-items-center tm-contact-item">
-                <a href="https://www.google.com/maps" class="tm-contact-item-link">
+                <a href="https://maps.app.goo.gl/SQsFWwB43gXKokud9" class="tm-contact-item-link" target="_blank">
                     <i class="fas fa-3x fa-map-marker-alt mr-4"></i>
                     <span class="mb-0">Location on Maps</span>
                 </a>
