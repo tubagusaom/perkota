@@ -4389,7 +4389,8 @@ input[type=submit].btn-block {
     flex-direction: column;
     padding-left: 0;
     margin-bottom: 0;
-    list-style: none
+    list-style: none;
+    font-weight: bold;
 }
 
 .navbar-nav .nav-link {
