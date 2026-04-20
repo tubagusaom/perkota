@@ -65,10 +65,13 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link tm-nav-link" href="#introduction">Introduction</a>
+                            <a class="nav-link tm-nav-link" href="#intro">Introduction</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link tm-nav-link" href="#work">Destination</a>
+                            <a class="nav-link tm-nav-link" href="#dest">Destination</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link tm-nav-link" href="#event">Event</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link tm-nav-link" href="#contact">Contact Us</a>
