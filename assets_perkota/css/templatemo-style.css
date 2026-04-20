@@ -624,6 +624,20 @@ p {
   height: 600px;
 }
 
+
+
+@media (min-width: 1300px) and (max-width: 1550px) {
+  .embed-tb .slick-list {
+    width: 1550px;
+  }
+}
+
+@media (min-width: 1551px) {
+  .embed-tb .slick-list {
+    width: 1850px;
+  }
+}
+
 .instagram-media {
   background-color: #eee !important;
   padding: 5px !important;
