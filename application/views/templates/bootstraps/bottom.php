@@ -56,8 +56,35 @@
 <script src="<?= base_url() ?>assets_perkota/js/jquery.singlePageNav.min.js"></script>
 <script src="<?= base_url() ?>assets_perkota/js/bootstrap.min.js"></script>
 
-<script>
+<script src="<?= base_url() ?>assets_perkota/js/terabytee.js"></script>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+<script>
+    $(".carousel").owlCarousel({
+        margin: 20,
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 2000,
+        autoplayHoverPause: true,
+        responsive: {
+            0: {
+                items: 1,
+                nav: false
+            },
+            600: {
+                items: 2,
+                nav: false
+            },
+            1000: {
+                items: 4,
+                nav: false
+            }
+        }
+    });
+</script>
+
+<script>
     function getOffSet() {
         var _offset = 450;
         var windowHeight = window.innerHeight;

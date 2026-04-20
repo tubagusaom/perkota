@@ -1,9 +1,9 @@
 <section id="intro" class="tm-section-pad-top">
     <div class="container">
-        <div class="row">
+        <div class="row" style="margin-bottom: 50px;">
             <div class="col-lg-6">
-                <img src="<?php echo base_url() ?>assets_perkota/img/bg_perkota_1.png" alt="Image"
-                    class="img-fluid tm-intro-img" />
+                <img src="<?php echo base_url() ?>assets_perkota/img/bg_perkota_5.jpg" alt="Image"
+                    class="img-fluid tm-intro-img img-tb" />
             </div>
             <div class="col-lg-6">
                 <div class="tm-intro-text-container">
@@ -15,8 +15,8 @@
                     <p class="mb-5 tm-intro-text">
                         Please tell your friends about our site
                         <a rel="nofollow" href="https://terabytee.my.id">terabytee</a>. Thank you.
-                        Curabitur dapibus tristique enim a imperdiet. Etiam
-                        tristique sem sed condimentum posuere. </p>
+                        <!-- Curabitur dapibus tristique enim a imperdiet. Etiam
+                        tristique sem sed condimentum posuere. </p> -->
                     <div class="tm-next">
                         <a href="<?=base_url()?>pergub-dki.pdf" class="tm-intro-text tm-btn-primary" download><i
                                 class="fa fa-download"></i> Pergub DKI</a>
@@ -25,34 +25,64 @@
             </div>
         </div>
 
-        <div class="row tm-section-pad-top">
+        <!-- <div class="row tm-section-pad-top">
             <div class="col-lg-4">
                 <i class="fas fa-4x fa-train text-center tm-icon"></i>
                 <h4 class="text-center tm-text-primary mb-4">LRT , MRT , KAI</h4>
-                <!-- <p>
+                <p>
                     But basketball is more important than football. If you are not pregnant tomorrow, and who is having children now? Aenean to adorn the lake. Home financing just for the lake.
-                </p> -->
+                </p>
             </div>
 
             <div class="col-lg-4 mt-5 mt-lg-0">
                 <i class="fas fa-4x fa-bus text-center tm-icon"></i>
                 <h4 class="text-center tm-text-primary mb-4">Bus Trans Jakarta</h4>
-                <!-- <p>
+                <p>
                     Praesent ut finibus leo. Duis et tempus ipsum, id pretium nunc.
                     Vivamus imperdiet sem quis orci pharetra convallis. Nunc a tempus
                     nisi, sed fringilla purus. In hac habitasse platea.
-                </p> -->
+                </p>
             </div>
             <div class="col-lg-4 mt-5 mt-lg-0">
                 <i class="fas fa-4x fa-bicycle text-center tm-icon"></i>
                 <h4 class="text-center tm-text-primary mb-4">Bicycle</h4>
-                <!-- <p>
+                <p>
                     Donec vestibulum libero nisl. Curabitur ac orci ac lorem blandit
                     volutpat. Sed ac sodales nibh, ut porttitor elit. Sed id dui mi.
                     Vestibulum ante ipsum primis in faucibus.
-                </p> -->
+                </p>
             </div>
+        </div> -->
+
+        <div class="wrapper">
+            <div class="carousel owl-carousel">
+            <div class="card card-img card-1">
+                <a href="https://www.jakarta.go.id/" target="_blank">
+                    <img src="<?php echo base_url() ?>assets_perkota/images/pemprov_dki.png" alt="Image" class="img-fluid">
+                </a>
+            </div>
+            <div class="card card-img card-2">
+                <a href="https://www.lrtjakarta.co.id/" target="_blank">
+                    <img src="<?php echo base_url() ?>assets_perkota/images/lrt_jakarta.png" alt="Image" class="img-fluid">
+                </a>
+            </div>
+            <div class="card card-img card-3">
+                <a href="https://www.jakartamrt.co.id/" target="_blank">
+                    <img src="<?php echo base_url() ?>assets_perkota/images/mrt_jakarta.png" alt="Image" class="img-fluid">
+                </a>
+            </div>
+            <div class="card card-img card-4">
+                <a href="https://kadin.id/" target="_blank">
+                    <img src="<?php echo base_url() ?>assets_perkota/images/kadin-indonesia.png" alt="Image" class="img-fluid">
+                </a>
+            </div>
+            <!-- <div class="card card-5">
+                E
+            </div> -->
         </div>
+    </div>
+
+        
 </section>
 
 <section id="dest" class="tm-section-pad-top">
@@ -74,7 +104,7 @@
                         <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_1.png">
                             <figure class="effect-honey tm-gallery-item">
                                 <img src="<?php echo base_url() ?>assets_perkota/img/destination_1.png" alt="Image"
-                                    class="img-fluid">
+                                    class="img-fluid img-tb">
                                 <figcaption>
                                     <h2 style="font-size: 0.9rem!important;">
                                         <i>Museum <span>Seni Rupa dan Keramik</span></i>
@@ -85,7 +115,7 @@
                         <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_2.png">
                             <figure class="effect-honey tm-gallery-item">
                                 <img src="<?php echo base_url() ?>assets_perkota/img/destination_2.png" alt="Image"
-                                    class="img-fluid">
+                                    class="img-fluid img-tb">
                                 <figcaption>
                                     <h2 style="font-size: 0.9rem!important;">
                                         <i>Museum <span>Wayang</span></i>
@@ -96,7 +126,7 @@
                         <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_3.png">
                             <figure class="effect-honey tm-gallery-item">
                                 <img src="<?php echo base_url() ?>assets_perkota/img/destination_3.png" alt="Image"
-                                    class="img-fluid">
+                                    class="img-fluid img-tb">
                                 <figcaption>
                                     <h2 style="font-size: 0.9rem!important;">
                                         <i>Museum <span>Bahari</span></i>
@@ -107,7 +137,7 @@
                         <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_4.png">
                             <figure class="effect-honey tm-gallery-item">
                                 <img src="<?php echo base_url() ?>assets_perkota/img/destination_4.png" alt="Image"
-                                    class="img-fluid">
+                                    class="img-fluid img-tb">
                                 <figcaption>
                                     <h2 style="font-size: 0.9rem!important;">
                                         <i>Museum <span>Bank Indonesia</span></i>
@@ -128,7 +158,7 @@
         <div class="text-center col-12">
             <h2 class="tm-text-primary tm-section-title mb-4">Event</h2>
             <p class="mx-auto tm-work-description">
-                "Event di kota tua jakarta."
+                "Event in the <b>Kota Tua</b> of Jakarta"
             </p>
         </div>
     </div>

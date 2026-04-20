@@ -43,6 +43,11 @@
     <link rel="stylesheet" href="<?php echo base_url() ?>assets_perkota/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo base_url() ?>assets_perkota/css/templatemo-style.css">
 
+    <link rel="stylesheet" href="<?php echo base_url() ?>assets_perkota/css/terabytee.css">
+
+    <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+
 </head>
 
 
