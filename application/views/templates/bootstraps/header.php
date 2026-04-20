@@ -96,7 +96,7 @@
         </div>
 
         <div class="tm-next tm-intro-next">
-            <a href="#introduction" class="text-center tm-down-arrow-link">
+            <a href="#intro" class="text-center tm-down-arrow-link">
                 <i class="fas fa-3x fa-caret-down tm-down-arrow"></i>
             </a>
         </div>
