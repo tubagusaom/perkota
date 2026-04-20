@@ -70,16 +70,24 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link tm-nav-link" href="#intro">Introduction</a>
+                            <a class="nav-link tm-nav-link" href="#intro">
+                                <i class="fa fa-handshake-o tb-hide"></i> Introduction
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link tm-nav-link" href="#dest">Destination</a>
+                            <a class="nav-link tm-nav-link" href="#dest">
+                                <i class="fa fa-map-signs tb-hide"></i> Destination
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link tm-nav-link" href="#event">Event</a>
+                            <a class="nav-link tm-nav-link" href="#event">
+                                <i class="fa fa-calendar-check-o tb-hide"></i> Event
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link tm-nav-link" href="#contact">Contact Us</a>
+                            <a class="nav-link tm-nav-link" href="#contact">
+                                <i class="fa fa-id-card tb-hide"></i> Contact Us
+                            </a>
                         </li>
                     </ul>
                 </div>

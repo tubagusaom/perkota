@@ -87,3 +87,10 @@
 .owl-dot:hover {
     background: #0072bc !important;
 }
+
+
+@media (min-width:768px) {
+    .tb-hide {
+        display: none;
+    }
+}
