@@ -63,7 +63,7 @@ a:focus {
   color: white;
   background-color: #3496d8;
   padding: 14px 35px;
-  border-radius: 30px;
+  border-radius: 50px;
 }
 
 .tm-btn-primary:hover,
@@ -259,6 +259,7 @@ a:focus {
 .tm-intro-text {
   font-size: 1.2rem;
   line-height: 1.4;
+  text-align: center;
 }
 
 .tm-icon {

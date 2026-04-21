@@ -17,8 +17,9 @@
                         <!-- Curabitur dapibus tristique enim a imperdiet. Etiam
                         tristique sem sed condimentum posuere. </p> -->
                     <div class="tm-next">
-                        <a href="<?=base_url()?>pergub-dki.pdf" class="tm-intro-text tm-btn-primary" download><i
-                                class="fa fa-download"></i> Pergub DKI</a>
+                        <a href="<?=base_url()?>pergub-dki.pdf" class="tm-intro-text tm-btn-primary btn-block" download>
+                            <i class="fa fa-download"></i> Pergub DKI
+                        </a>
                     </div>
                 </div>
             </div>
