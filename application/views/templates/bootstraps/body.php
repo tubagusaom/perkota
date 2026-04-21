@@ -113,8 +113,7 @@
                         </a>
                         <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_2.png">
                             <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_2.png" alt="perkota"
-                                    class="img-fluid img-tb">
+                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_2.png" alt="perkota" class="img-fluid img-tb">
                                 <figcaption>
                                     <h2 style="font-size: 0.9rem!important;">
                                         <i>Museum <span>Wayang</span></i>
@@ -124,8 +123,7 @@
                         </a>
                         <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_3.png">
                             <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_3.png" alt="perkota"
-                                    class="img-fluid img-tb">
+                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_3.png" alt="perkota" class="img-fluid img-tb">
                                 <figcaption>
                                     <h2 style="font-size: 0.9rem!important;">
                                         <i>Museum <span>Bahari</span></i>
@@ -135,8 +133,7 @@
                         </a>
                         <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_4.png">
                             <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_4.png" alt="perkota"
-                                    class="img-fluid img-tb">
+                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_4.png" alt="perkota" class="img-fluid img-tb">
                                 <figcaption>
                                     <h2 style="font-size: 0.9rem!important;">
                                         <i>Museum <span>Bank Indonesia</span></i>

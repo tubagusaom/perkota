@@ -59,7 +59,9 @@
         <nav class="navbar navbar-expand-md tm-navbar" id="tmNav">
             <div class="container">
                 <div class="tm-next">
-                    <a id="homepage" href="javascript:void(0)" class="navbar-brand">PERKOTA</a>
+                    <a id="homepage" href="javascript:void(0)" class="navbar-brand">
+                        <img src="<?php echo base_url() ?>assets_perkota/images/logo_perkota_transparent_1.png" alt="perkota" class="img-fluid logo-header">
+                    </a>
                 </div>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse"
@@ -107,6 +109,7 @@
 
         <div class="text-center tm-hero-text-container">
             <div class="tm-hero-text-container-inner">
+                <!-- <img src="<?php echo base_url() ?>assets_perkota/images/logo_perkota_transparent_1.png" alt="perkota" class="img-fluid logo-body"> -->
                 <h2 class="tm-hero-title">PERKOTA</h2>
                 <p class="tm-hero-subtitle">
                     Perhimpunan Konsorsium Batavia Jakarta
