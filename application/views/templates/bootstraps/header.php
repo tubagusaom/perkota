@@ -11,7 +11,7 @@
     <meta http-equiv="pragma" content="no-cache">
 
     <title>
-        <?= $aplikasi->singkatan_unit ?> - <?= $aplikasi->nama_unit ?>
+        <?= $aplikasi->singkatan_unit ?> | <?= $aplikasi->nama_unit ?>
     </title>
 
 
@@ -59,7 +59,7 @@
         <nav class="navbar navbar-expand-md tm-navbar" id="tmNav">
             <div class="container">
                 <div class="tm-next">
-                    <a href="#hero" class="navbar-brand">PERKOTA</a>
+                    <a id="homepage" href="javascript:void(0)" class="navbar-brand">PERKOTA</a>
                 </div>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse"
@@ -70,29 +70,40 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link tm-nav-link" href="#intro">
-                                <i class="fa fa-handshake-o tb-hide"></i> Introduction
+                            <a id="introduction" class="nav-link tm-nav-link" href="javascript:void(0)">
+                                <i class="fa fa-handshake-o"></i> Introduction
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link tm-nav-link" href="#dest">
-                                <i class="fa fa-map-signs tb-hide"></i> Destination
+                            <a id="destination" class="nav-link tm-nav-link" href="javascript:void(0)">
+                                <i class="fa fa-map-signs"></i> Destination
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link tm-nav-link" href="#event">
-                                <i class="fa fa-calendar-check-o tb-hide"></i> Event
+                            <a id="events" class="nav-link tm-nav-link" href="javascript:void(0)">
+                                <i class="fa fa-calendar-check-o"></i> Event
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link tm-nav-link" href="#contact">
-                                <i class="fa fa-id-card tb-hide"></i> Contact Us
+                            <a id="virtual-tour" class="nav-link tm-nav-link" href="javascript:void(0)">
+                                <i class='fas'>&#xf21d;</i> Virtual Tour
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a id="contact-us" class="nav-link tm-nav-link" href="javascript:void(0)">
+                                <!-- <i class="fa fa-id-card tb-hide"></i> -->
+                                <i class='fas'>&#xf086;</i>
+                                Contact Us
                             </a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
+
+        <script>
+            
+        </script>
 
         <div class="text-center tm-hero-text-container">
             <div class="tm-hero-text-container-inner">
@@ -104,7 +115,7 @@
         </div>
 
         <div class="tm-next tm-intro-next">
-            <a href="#intro" class="text-center tm-down-arrow-link">
+            <a id="introarrow" href="javascript:void(0)" class="text-center tm-down-arrow-link">
                 <i class="fas fa-3x fa-caret-down tm-down-arrow"></i>
             </a>
         </div>

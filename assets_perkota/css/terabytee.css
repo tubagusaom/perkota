@@ -94,3 +94,7 @@
         display: none;
     }
 }
+
+.active_tb {
+    color: #3496d8 !important;
+}
