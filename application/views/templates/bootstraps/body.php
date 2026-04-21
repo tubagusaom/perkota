@@ -2,8 +2,7 @@
     <div class="container">
         <div class="row" style="margin-bottom: 50px;">
             <div class="col-lg-6">
-                <img src="<?php echo base_url() ?>assets_perkota/img/bg_perkota_5.jpg" alt="Image"
-                    class="img-fluid tm-intro-img img-tb" />
+                <img src="<?php echo base_url() ?>assets_perkota/img/bg_perkota_5.jpg" alt="perkota" class="img-fluid tm-intro-img img-tb" />
             </div>
             <div class="col-lg-6">
                 <div class="tm-intro-text-container">
@@ -58,22 +57,22 @@
             <div class="carousel owl-carousel">
             <div class="card card-img card-1">
                 <a href="https://www.jakarta.go.id/" target="_blank">
-                    <img src="<?php echo base_url() ?>assets_perkota/images/pemprov_dki.png" alt="Image" class="img-fluid">
+                    <img src="<?php echo base_url() ?>assets_perkota/images/pemprov_dki.png" alt="perkota" class="img-fluid">
                 </a>
             </div>
             <div class="card card-img card-2">
                 <a href="https://www.lrtjakarta.co.id/" target="_blank">
-                    <img src="<?php echo base_url() ?>assets_perkota/images/lrt_jakarta.png" alt="Image" class="img-fluid">
+                    <img src="<?php echo base_url() ?>assets_perkota/images/lrt_jakarta.png" alt="perkota" class="img-fluid">
                 </a>
             </div>
             <div class="card card-img card-3">
                 <a href="https://www.jakartamrt.co.id/" target="_blank">
-                    <img src="<?php echo base_url() ?>assets_perkota/images/mrt_jakarta.png" alt="Image" class="img-fluid">
+                    <img src="<?php echo base_url() ?>assets_perkota/images/mrt_jakarta.png" alt="perkota" class="img-fluid">
                 </a>
             </div>
             <div class="card card-img card-4">
                 <a href="https://kadin.id/" target="_blank">
-                    <img src="<?php echo base_url() ?>assets_perkota/images/kadin-indonesia.png" alt="Image" class="img-fluid">
+                    <img src="<?php echo base_url() ?>assets_perkota/images/kadin-indonesia.png" alt="perkota" class="img-fluid">
                 </a>
             </div>
             <!-- <div class="card card-5">
@@ -103,7 +102,7 @@
                     <div class="grid tm-gallery">
                         <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_1.png">
                             <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_1.png" alt="Image"
+                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_1.png" alt="perkota"
                                     class="img-fluid img-tb">
                                 <figcaption>
                                     <h2 style="font-size: 0.9rem!important;">
@@ -114,7 +113,7 @@
                         </a>
                         <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_2.png">
                             <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_2.png" alt="Image"
+                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_2.png" alt="perkota"
                                     class="img-fluid img-tb">
                                 <figcaption>
                                     <h2 style="font-size: 0.9rem!important;">
@@ -125,7 +124,7 @@
                         </a>
                         <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_3.png">
                             <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_3.png" alt="Image"
+                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_3.png" alt="perkota"
                                     class="img-fluid img-tb">
                                 <figcaption>
                                     <h2 style="font-size: 0.9rem!important;">
@@ -136,7 +135,7 @@
                         </a>
                         <a href="<?php echo base_url() ?>assets_perkota/img/destination_tn_4.png">
                             <figure class="effect-honey tm-gallery-item">
-                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_4.png" alt="Image"
+                                <img src="<?php echo base_url() ?>assets_perkota/img/destination_4.png" alt="perkota"
                                     class="img-fluid img-tb">
                                 <figcaption>
                                     <h2 style="font-size: 0.9rem!important;">
