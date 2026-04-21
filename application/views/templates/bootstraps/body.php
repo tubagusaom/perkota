@@ -13,7 +13,7 @@
                     </p> -->
                     <p class="mb-5 tm-intro-text">
                         Please tell your friends about our site
-                        <a rel="nofollow" href="https://terabytee.my.id">PERKOTA</a>. Thank you.
+                        <a rel="nofollow" href="https://terabytee.my.id">perkota</a>. Thank you.
                         <!-- Curabitur dapibus tristique enim a imperdiet. Etiam
                         tristique sem sed condimentum posuere. </p> -->
                     <div class="tm-next">
