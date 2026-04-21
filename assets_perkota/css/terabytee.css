@@ -133,7 +133,7 @@ img.logo-body {
 
 @media (max-width:500px) {
     .tm-hero-subtitle {
-        font-size: 20px;
+        font-size: 18px;
     }
 }
 @media (min-width: 501px) and (max-width: 680px) {
