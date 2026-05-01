@@ -15,9 +15,9 @@ const Vtour = document.querySelector('#virtual-tour');
 const Cus = document.querySelector('#contact-us');
 
 Vtour.addEventListener('click', event => {
-    // window.open('https://indonesiavirtualtour.com/storage/destination/taman-fatahillah/src/', '_blank');
+    window.open('https://indonesiavirtualtour.com/storage/destination/taman-fatahillah/src/', '_blank');
     // window.open('https://perkota.gogrein.id/', '_blank');
-    window.location.href = "virtual-tour";
+    // window.location.href = "virtual-tour";
 
     Vtour.classList.add("active_tb");
 
