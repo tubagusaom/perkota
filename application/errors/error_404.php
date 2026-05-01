@@ -12,7 +12,7 @@
 <html lang="en">
 	<head>
 		<title>404 - <?php echo $config['title']; ?></title>
-		<link rel="icon" type="image/x-icon" href="<?php echo $config['base_url'] ?>assets/img/logo.jpg" />
+		<link rel="icon" type="image/x-icon" href="<?php echo $config['base_url'] ?>assets_perkota/images/logo_perkota.png" />
 
 		<link rel="stylesheet" type="text/css" href="<?php echo $config['base_url']; ?>assets/error/css/style.css"/>
 		<link href="<?php echo $config['base_url'] ?>assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />

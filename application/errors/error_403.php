@@ -12,8 +12,8 @@
 <html lang="en">
 	<head>
 		<title><?php echo $config['title']; ?></title>
-		<link rel="icon" type="image/x-icon" href="<?php echo $config['base_url'] ?>assets/img/favicon.ico" />
-		<link rel="icon" type="image/png" href="<?php echo $config['base_url'] ?>assets/img/favicon.png" />
+		<link rel="icon" type="image/x-icon" href="<?php echo $config['base_url'] ?>assets_perkota/images/icon-perkota.ico" />
+		<link rel="icon" type="image/png" href="<?php echo $config['base_url'] ?>assets_perkota/images/logo_perkota.png" />
 		<link rel="icon" type="image/gif" href="<?php echo $config['base_url'] ?>assets/img/favicon.gif" />
 		<link rel="stylesheet" type="text/css" href="<?php echo $config['base_url']; ?>assets/css/default.css"/>
 		<link rel="stylesheet" type="text/css" href="<?php echo $config['base_url']; ?>assets/css/themes/default/easyui.css"/>
