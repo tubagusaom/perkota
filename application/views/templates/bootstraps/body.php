@@ -73,7 +73,7 @@
             </div>
             <div class="card card-img card-4">
                 <a href="https://kadin.id/" target="_blank">
-                    <img src="<?php echo base_url() ?>assets_perkota/images/kadin-indonesia.png" alt="perkota" class="img-fluid">
+                    <img src="<?php echo base_url() ?>assets_perkota/images/kadin-jakarta.png" alt="perkota" class="img-fluid">
                 </a>
             </div>
             <!-- <div class="card card-5">
