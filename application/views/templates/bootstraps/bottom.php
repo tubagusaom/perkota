@@ -35,7 +35,7 @@
             <div class="col-sm-6 col-md-6 d-flex align-items-center tm-contact-item">
                 <!-- <form action="" method="get"> -->
                     <input name="email" type="email" placeholder="Subscribe your email" class="tm-input" />
-                    <a href="mailto:info@perkota.com" class="">
+                    <a href="mailto:info@perkota.com" class="" style="">
                     <button type="submit" class="btn tm-btn-submit">Submit</button>
                     </a>
                 <!-- </form> -->
