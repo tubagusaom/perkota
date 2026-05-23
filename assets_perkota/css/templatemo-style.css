@@ -494,13 +494,13 @@ figure.effect-honey:hover h2 i {
   padding: 8px 25px;
   border-radius: 3px;
   border: 1px solid white;
-  background: #bbb;
-  color: white;
+  background: #ddd;
+  color: 000;
 }
 
 ::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: white;
+  color: #000;
   opacity: 1; /* Firefox */
 }
 
