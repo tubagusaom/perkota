@@ -33,10 +33,12 @@
                 </a>
             </div>
             <div class="col-sm-6 col-md-6 d-flex align-items-center tm-contact-item">
-                <form action="" method="get">
-                    <input name="email" type="email" placeholder="Subscribe your email" class="tm-input" required />
+                <!-- <form action="" method="get"> -->
+                    <input name="email" type="email" placeholder="Subscribe your email" class="tm-input" />
+                    <a href="mailto:info@perkota.com" class="">
                     <button type="submit" class="btn tm-btn-submit">Submit</button>
-                </form>
+                    </a>
+                <!-- </form> -->
             </div>
         </div>
     </div>
