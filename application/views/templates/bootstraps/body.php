@@ -18,7 +18,7 @@
                         <!-- Curabitur dapibus tristique enim a imperdiet. Etiam
                         tristique sem sed condimentum posuere. </p> -->
                     <div class="tm-next">
-                        <a href="<?=base_url()?>pergub-dki.pdf" class="tm-intro-text tm-btn-primary btn-block" download>
+                        <a href="<?=base_url()?>kepgub_nomor_499_tahun_2026.pdf" class="tm-intro-text tm-btn-primary btn-block" download>
                             <i class="fa fa-download"></i> Pergub DKI
                         </a>
                     </div>
