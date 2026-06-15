@@ -92,9 +92,7 @@
             <div class="text-center col-12">
                 <h2 class="tm-text-primary tm-section-title mb-4">Destination</h2>
                 <p class="mx-auto tm-work-description">
-                    "Chat and therapy and the internet flatters the weekend. But as members of the budget, such as the
-                    airline. But that is my god. In front of him, first of all, in the throats of the hospital, to lay
-                    the beds of mourning and basketball."
+                    "Jelajahi destinasi terbaik di Indonesia bersama Perkota.com. Temukan wisata, kuliner, budaya, dan berbagai rekomendasi tempat menarik untuk pengalaman perjalanan yang lebih berkesan."
                 </p>
             </div>
         </div>
@@ -156,7 +154,8 @@
         <div class="text-center col-12">
             <h2 class="tm-text-primary tm-section-title mb-4">Event</h2>
             <p class="mx-auto tm-work-description">
-                "Event in the <b>Kota Tua</b> of Jakarta"
+                <!-- "Event in the <b>Kota Tua</b> of Jakarta" -->
+                "Jelajahi berbagai event seru di seluruh Indonesia. Temukan acara terbaru, jadwal lengkap, dan informasi penting untuk pengalaman yang lebih berkesan bersama Perkota.com."
             </p>
         </div>
     </div>
