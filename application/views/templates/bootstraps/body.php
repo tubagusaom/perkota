@@ -2,7 +2,14 @@
     <div class="container">
         <div class="row" style="margin-bottom: 50px;">
             <div class="col-lg-6">
-                <img src="<?php echo base_url() ?>assets_perkota/img/bg_perkota_5.jpg" alt="perkota" class="img-fluid tm-intro-img img-tb" />
+                <!-- <img src="<?php echo base_url() ?>assets_perkota/img/bg_perkota_5.jpg" alt="perkota" class="img-fluid tm-intro-img img-tb" /> -->
+                <!-- <video src="<?php echo base_url() ?>assets_perkota/video/0615.mp4" autoplay class="img-fluid tm-intro-img img-tb"></video> -->
+
+                <video class="img-fluid tm-intro-img img-tb" controls>
+                 <source src="<?php echo base_url() ?>assets_perkota/video/0615.mp4" type="video/mp4">
+                 <!-- <source src="movie.ogg" type="video/ogg"> -->
+                Your browser does not support the video tag.
+                </video>
             </div>
             <div class="col-lg-6">
                 <div class="tm-intro-text-container">
