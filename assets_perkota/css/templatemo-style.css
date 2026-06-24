@@ -72,6 +72,23 @@ a:focus {
   background-color: #73c1f6;
 }
 
+.tb-btn {
+  padding-top: 30px;
+}
+
+.tm-btn-red {
+  color: white;
+  background-color: #c57e7d;
+  padding: 14px 35px;
+  border-radius: 50px;
+}
+
+.tm-btn-red:hover,
+.tm-btn-red:focus {
+  color: white;
+  background-color: #bd7c7b;
+}
+
 /* Navbar */
 
 .tm-navbar {

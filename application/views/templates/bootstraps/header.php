@@ -116,8 +116,8 @@
                 </p>
             </div>
 
-            <div class="tm-next">
-                <a href="#" class="tm-intro-text tm-btn-primary">
+            <div class="tb-btn">
+                <a href="#" class="tm-intro-text tm-btn-red">
                     <i class="fa fa-edit"></i> Pendaftaran Anggota
                 </a>
             </div>
