@@ -18,7 +18,7 @@
                         The Town is <strong>simple CSS template</strong> built on Bootstrap v4.1.3
                         and this is a little parallax layout that you can use for your websites.
                     </p> -->
-                    <p class="mb-5 tm-intro-text">
+                    <p class="tb-intro-text">
                         PERKOTA adalah platform yang menghubungkan sejarah, komunitas, dan perkembangan kawasan Kota Tua Jakarta. Kami menghadirkan informasi seputar wisata, budaya, properti, dan kegiatan kawasan, sekaligus menjadi wadah kolaborasi bagi anggota konsorsium gedung, pelaku usaha, serta komunitas yang berperan dalam memajukan dan melestarikan kawasan bersejarah ini.
                         <!-- Bagi siapa saja yang ingin mengetahui sejarah Batavia, sejarah Jakarta, maupun destinasi wisata bersejarah di Indonesia, Kota Tua Jakarta menjadi pilihan yang wajib dikunjungi karena menyajikan perpaduan antara nilai sejarah, edukasi, dan daya tarik wisata modern dalam satu kawasan. -->
                         <!-- <a rel="nofollow" href="https://perkota.com">perkota</a>. Thank you. -->

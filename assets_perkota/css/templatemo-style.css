@@ -279,6 +279,12 @@ a:focus {
   text-align: center;
 }
 
+.tb-intro-text {
+  font-size: 1rem;
+  line-height: 1.4;
+  text-align: center;
+}
+
 .tm-icon {
   display: block;
   margin-bottom: 55px;
@@ -562,6 +568,10 @@ p {
     padding-left: 65px;
   }
 
+  .tb-intro-text-container {
+    padding-left: 65px;
+  }
+
   .navbar-expand-md .navbar-nav .nav-link {
     padding-right: 10px;
     padding-left: 10px;
@@ -596,6 +606,14 @@ p {
 
 @media (max-width: 991px) {
   .tm-intro-text-container {
+    padding-left: 15px;
+    padding-top: 30px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .tb-intro-text-container {
     padding-left: 15px;
     padding-top: 30px;
     max-width: 600px;
