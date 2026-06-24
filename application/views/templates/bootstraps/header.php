@@ -115,6 +115,12 @@
                     Perhimpunan Konsorsium Batavia Jakarta
                 </p>
             </div>
+
+            <div class="tm-next">
+                <a href="#" class="tm-intro-text tm-btn-primary">
+                    <i class="fa fa-edit"></i> Pendaftaran Anggota
+                </a>
+            </div>
         </div>
 
         <div class="tm-next tm-intro-next">
