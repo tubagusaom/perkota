@@ -73,29 +73,29 @@
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
                             <a id="introduction" class="nav-link tm-nav-link" href="javascript:void(0)">
-                                <i class="fa fa-handshake-o"></i> Introduction
+                                <i class="fa fa-handshake-o"></i> Tentang Kami
                             </a>
                         </li>
                         <li class="nav-item">
                             <a id="destination" class="nav-link tm-nav-link" href="javascript:void(0)">
-                                <i class="fa fa-map-signs"></i> Destination
+                                <i class="fa fa-map-signs"></i> Wisata
                             </a>
                         </li>
                         <li class="nav-item">
                             <a id="events" class="nav-link tm-nav-link" href="javascript:void(0)">
-                                <i class="fa fa-calendar-check-o"></i> Event
+                                <i class="fa fa-calendar-check-o"></i> Acara
                             </a>
                         </li>
                         <li class="nav-item">
                             <a id="virtual-tour" class="nav-link tm-nav-link" href="javascript:void(0)">
-                                <i class='fas'>&#xf21d;</i> Virtual Tour
+                                <i class='fas'>&#xf21d;</i> Tur Virtual
                             </a>
                         </li>
                         <li class="nav-item">
                             <a id="contact-us" class="nav-link tm-nav-link" href="javascript:void(0)">
                                 <!-- <i class="fa fa-id-card tb-hide"></i> -->
                                 <i class='fas'>&#xf086;</i>
-                                Contact Us
+                                Kontak
                             </a>
                         </li>
                     </ul>

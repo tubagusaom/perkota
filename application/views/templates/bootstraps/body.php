@@ -13,7 +13,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="tm-intro-text-container">
-                    <h2 class="tm-text-primary mb-4 tm-section-title">Introduction</h2>
+                    <h2 class="tm-text-primary mb-4 tm-section-title">Tentang Kami</h2>
                     <!-- <p class="mb-4 tm-intro-text">
                         The Town is <strong>simple CSS template</strong> built on Bootstrap v4.1.3
                         and this is a little parallax layout that you can use for your websites.
@@ -97,7 +97,7 @@
     <div class="container tm-container-gallery">
         <div class="row">
             <div class="text-center col-12">
-                <h2 class="tm-text-primary tm-section-title mb-4">Destination</h2>
+                <h2 class="tm-text-primary tm-section-title mb-4">Wisata</h2>
                 <p class="mx-auto tm-work-description">
                     "Jelajahi destinasi terbaik di Indonesia bersama Perkota.com. Temukan wisata, kuliner, budaya, dan berbagai rekomendasi tempat menarik untuk pengalaman perjalanan yang lebih berkesan."
                 </p>
@@ -159,7 +159,7 @@
 
     <!-- <div class="row"> -->
         <div class="text-center col-12">
-            <h2 class="tm-text-primary tm-section-title mb-4">Event</h2>
+            <h2 class="tm-text-primary tm-section-title mb-4">Acara</h2>
             <p class="mx-auto tm-work-description">
                 <!-- "Event in the <b>Kota Tua</b> of Jakarta" -->
                 "Jelajahi berbagai event seru di seluruh Indonesia. Temukan acara terbaru, jadwal lengkap, dan informasi penting untuk pengalaman yang lebih berkesan bersama Perkota.com."

@@ -3,7 +3,7 @@
     <div class="container tm-container-contact">
         <div class="row">
             <div class="col-12">
-                <h2 class="mb-4 tm-section-title">Contact Us</h2>
+                <h2 class="mb-4 tm-section-title">Hubungi Kami</h2>
                 <div class="mb-5 tm-underline">
                     <div class="tm-underline-inner"></div>
                 </div>
