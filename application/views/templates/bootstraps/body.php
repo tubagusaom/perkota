@@ -19,7 +19,7 @@
                         and this is a little parallax layout that you can use for your websites.
                     </p> -->
                     <p class="mb-5 tm-intro-text">
-                        Kota Tua Jakarta terus berkembang melalui berbagai program revitalisasi yang menjadikannya semakin nyaman dan menarik bagi wisatawan lokal maupun mancanegara. Selain menjadi pusat wisata sejarah Jakarta, kawasan ini juga dikenal sebagai lokasi favorit untuk berburu foto, wisata museum, kuliner khas, hingga kegiatan budaya yang berlangsung sepanjang tahun.
+                        PERKOTA adalah platform yang menghubungkan sejarah, komunitas, dan perkembangan kawasan Kota Tua Jakarta. Kami menghadirkan informasi seputar wisata, budaya, properti, dan kegiatan kawasan, sekaligus menjadi wadah kolaborasi bagi anggota konsorsium gedung, pelaku usaha, serta komunitas yang berperan dalam memajukan dan melestarikan kawasan bersejarah ini.
                         <!-- Bagi siapa saja yang ingin mengetahui sejarah Batavia, sejarah Jakarta, maupun destinasi wisata bersejarah di Indonesia, Kota Tua Jakarta menjadi pilihan yang wajib dikunjungi karena menyajikan perpaduan antara nilai sejarah, edukasi, dan daya tarik wisata modern dalam satu kawasan. -->
                         <!-- <a rel="nofollow" href="https://perkota.com">perkota</a>. Thank you. -->
                         <!-- Curabitur dapibus tristique enim a imperdiet. Etiam
