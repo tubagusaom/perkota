@@ -157,7 +157,7 @@
 
 <section id="event" class="tb-embed-pad-top">
 
-    <div class="row">
+    <!-- <div class="row"> -->
         <div class="text-center col-12">
             <h2 class="tm-text-primary tm-section-title mb-4">Event</h2>
             <p class="mx-auto tm-work-description">
@@ -165,7 +165,7 @@
                 "Jelajahi berbagai event seru di seluruh Indonesia. Temukan acara terbaru, jadwal lengkap, dan informasi penting untuk pengalaman yang lebih berkesan bersama Perkota.com."
             </p>
         </div>
-    </div>
+    <!-- </div> -->
 
     <div class="tm-container-gallery">
 

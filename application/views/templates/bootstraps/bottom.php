@@ -32,14 +32,14 @@
                     <span class="mb-0">Location on Maps</span>
                 </a>
             </div>
-            <div class="col-sm-6 col-md-6 d-flex align-items-center tm-contact-item">
-                <!-- <form action="" method="get"> -->
+            <!-- <div class="col-sm-6 col-md-6 d-flex align-items-center tm-contact-item">
+                <form action="" method="get">
                     <input name="email" type="email" placeholder="Subscribe your email" class="tm-input" />
                     <a href="mailto:info@perkota.com" class="" style="">
                     <button type="submit" class="btn tm-btn-submit">Submit</button>
                     </a>
-                <!-- </form> -->
-            </div>
+                </form>
+            </div> -->
         </div>
     </div>
     <footer class="text-center small tm-footer">
