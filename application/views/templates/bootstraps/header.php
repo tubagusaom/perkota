@@ -53,6 +53,37 @@
 
 <body>
 
+<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content rounded-0 border-0 p-4">
+                <div class="modal-header border-0">
+                    <h3>Masuk</h3>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form action="#" class="row">
+                        <div class="col-12">
+                            <!-- <input type="text" class="form-control mb-3" id="loginPhone" name="loginPhone" placeholder="Phone"> -->
+                            <input type="text" placeholder="Username" class="form-control mb-3 login-control" aria-describedby="basic-addon1" name="inputUsername" id="inputUsername">
+                        </div>
+                        <div class="col-12">
+                            <!-- <input type="password" class="form-control mb-3" id="loginPassword" name="loginPassword" placeholder="Password"> -->
+                            <input type="password" placeholder="Password" class="form-control mb-3 login-control" aria-describedby="basic-addon2" name="inputPassword" id="inputPassword" onkeypress="if (event.keyCode == 13) login_click();">
+                        </div>
+                        <div class="col-12">
+                            <!-- <button type="button" class="btn btn-primary" id="btn-login">LOGIN</button> -->
+                            <button type="button" class="btn btn-primary disabled" id="btn-login">Login</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal -->
+
     <!-- Hero section -->
     <section id="hero" class="text-white tm-font-big tm-parallax">
         <!-- Navigation -->
@@ -99,7 +130,7 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link tm-nav-link" href="">
+                            <a  href="javascript:void(0)" data-toggle="modal" data-target="#loginModal" class="nav-link tm-nav-link">
                                 <i class='fas'>&#xf2f6;</i> Masuk
                             </a>
                         </li>
@@ -107,10 +138,6 @@
                 </div>
             </div>
         </nav>
-
-        <script>
-            
-        </script>
 
         <div class="text-center tm-hero-text-container">
             <div class="tm-hero-text-container-inner">
