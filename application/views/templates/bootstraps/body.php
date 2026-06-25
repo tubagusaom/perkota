@@ -25,8 +25,8 @@
                         <!-- Curabitur dapibus tristique enim a imperdiet. Etiam
                         tristique sem sed condimentum posuere. </p> -->
                     <div class="tm-next">
-                        <a href="<?=base_url()?>kepgub_nomor_499_tahun_2026.pdf" class="tm-intro-text tm-btn-primary btn-block" download>
-                            <i class="fa fa-download"></i> Kebgub DKI
+                        <a href="#" class="tm-intro-text tm-btn-primary btn-block">
+                            <i class="fa fa-edit"></i> Pendaftaran Anggota
                         </a>
                     </div>
                 </div>
