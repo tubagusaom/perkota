@@ -25,7 +25,7 @@
                         <!-- Curabitur dapibus tristique enim a imperdiet. Etiam
                         tristique sem sed condimentum posuere. </p> -->
                     <div class="tm-next">
-                        <a href="#" class="tm-intro-text tm-btn-primary btn-block">
+                        <a href="" class="tm-intro-text tm-btn-primary btn-block">
                             <i class="fa fa-edit"></i> Pendaftaran Anggota
                         </a>
                     </div>
