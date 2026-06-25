@@ -73,7 +73,7 @@
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
                             <a id="introduction" class="nav-link tm-nav-link" href="javascript:void(0)">
-                                <i class="fa fa-handshake-o"></i> Tentang Kami
+                                <i class="fa fa-info-circle"></i> Tentang Kami
                             </a>
                         </li>
                         <li class="nav-item">
@@ -96,6 +96,11 @@
                                 <!-- <i class="fa fa-id-card tb-hide"></i> -->
                                 <i class='fas'>&#xf086;</i>
                                 Kontak
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link tm-nav-link" href="">
+                                <i class='fas'>&#xf2f6;</i> Masuk
                             </a>
                         </li>
                     </ul>
