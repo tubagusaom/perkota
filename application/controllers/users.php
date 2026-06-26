@@ -369,7 +369,7 @@ class Users extends MY_Controller {
                 $this->session->unset_userdata($sess);
                 $this->session->sess_destroy();
             }
-            redirect(base_url('admin'));
+            redirect(base_url());
         } else {
             block_access_method();
         }

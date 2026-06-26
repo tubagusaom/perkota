@@ -48,41 +48,21 @@
     <!-- Owl Carousel CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
 
+
+    
+    <script type="text/javascript">
+        var base_url = "<?php echo base_url() ?>";
+    </script>
+
+    <script src="<?php echo base_url() ?>assets/js/jquery.v2.min.js" type="text/javascript"></script>
+    <script src="<?php echo base_url() ?>assets/js/bootstraps/bootstrap.min.js" type="text/javascript"></script>
+    <script src="<?php echo base_url() ?>assets/js/bootstraps/bootbox.min.js" type="text/javascript"></script>
+    <script src="<?php echo base_url() ?>assets/js/public/bootstrap-datepicker.js" type="text/javascript"></script>
+
 </head>
 
 
 <body>
-
-<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog modal-lg" role="document">
-            <div class="modal-content rounded-0 border-0 p-4">
-                <div class="modal-header border-0">
-                    <h3>Masuk</h3>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <form action="#" class="row">
-                        <div class="col-12">
-                            <!-- <input type="text" class="form-control mb-3" id="loginPhone" name="loginPhone" placeholder="Phone"> -->
-                            <input type="text" placeholder="Username" class="form-control mb-3 login-control" aria-describedby="basic-addon1" name="inputUsername" id="inputUsername">
-                        </div>
-                        <div class="col-12">
-                            <!-- <input type="password" class="form-control mb-3" id="loginPassword" name="loginPassword" placeholder="Password"> -->
-                            <input type="password" placeholder="Password" class="form-control mb-3 login-control" aria-describedby="basic-addon2" name="inputPassword" id="inputPassword" onkeypress="if (event.keyCode == 13) login_click();">
-                        </div>
-                        <div class="col-12">
-                            <!-- <button type="button" class="btn btn-primary" id="btn-login">LOGIN</button> -->
-                            <button type="button" class="btn btn-primary disabled" id="btn-login">Login</button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Modal -->
 
     <!-- Hero section -->
     <section id="hero" class="text-white tm-font-big tm-parallax">
@@ -161,3 +141,35 @@
             </a>
         </div>
     </section>
+
+
+
+    <!-- Modal -->
+<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content rounded-0 border-0 p-4">
+                <div class="modal-header border-0">
+                    <h3>Masuk</h3>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form action="#" class="row">
+                        <div class="col-12">
+                            <!-- <input type="text" class="form-control mb-3" id="loginPhone" name="loginPhone" placeholder="Phone"> -->
+                            <input type="text" placeholder="Username" class="form-control mb-3 login-control" aria-describedby="basic-addon1" name="inputUsername" id="inputUsername">
+                        </div>
+                        <div class="col-12">
+                            <!-- <input type="password" class="form-control mb-3" id="loginPassword" name="loginPassword" placeholder="Password"> -->
+                            <input type="password" placeholder="Password" class="form-control mb-3 login-control" aria-describedby="basic-addon2" name="inputPassword" id="inputPassword" onkeypress="if (event.keyCode == 13) login_click();">
+                        </div>
+                        <div class="col-12">
+                            <!-- <button type="button" class="btn btn-primary" id="btn-login">LOGIN</button> -->
+                            <button type="button" class="btn btn-primary disabled" id="btn-login">Login</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
