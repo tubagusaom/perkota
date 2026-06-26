@@ -14,6 +14,8 @@ const Events = document.querySelector('#events');
 const Vtour = document.querySelector('#virtual-tour');
 const Cus = document.querySelector('#contact-us');
 
+const Pdaftar = document.querySelector('#pendafataran');
+
 const baseUrl = window.location;
 
 Vtour.addEventListener('click', event => {
@@ -26,6 +28,23 @@ Vtour.addEventListener('click', event => {
 
     Vtour.classList.add("active_tb");
 
+    Homepage.classList.remove("active_tb");
+    Destination.classList.remove("active_tb");
+    Events.classList.remove("active_tb");
+    Cus.classList.remove("active_tb");
+});
+
+Pdaftar.addEventListener('click', event => {
+    window.open('https://docs.google.com/forms/d/e/1FAIpQLSdIsjfcjwO32UH6IyGDbqS7FiAzOygFWSOiFgDs7e3pgUqGYA/viewform?usp=header', '_blank');
+    // window.open('https://perkota.gogrein.id/', '_blank');
+    // window.location.href = "virtual-tour";
+
+    // window.location.href = "virtual-tour";
+    // window.open(baseUrl + 'tour-virtual', '_blank');
+
+    Pdaftar.classList.add("active_tb");
+
+    Vtour.classList.remove("active_tb");
     Homepage.classList.remove("active_tb");
     Destination.classList.remove("active_tb");
     Events.classList.remove("active_tb");

@@ -48,8 +48,6 @@
     <!-- Owl Carousel CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
 
-
-    
     <script type="text/javascript">
         var base_url = "<?php echo base_url() ?>";
     </script>
@@ -114,6 +112,12 @@
                                 <i class='fas'>&#xf2f6;</i> Masuk
                             </a>
                         </li>
+
+                        <!-- <li class="nav-item">
+                            <a id="pendafataran" class="tm-btn-daftar" href="javascript:void(0)">
+                                Pendaftaran
+                            </a>
+                        </li> -->
                     </ul>
                 </div>
             </div>

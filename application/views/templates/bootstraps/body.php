@@ -25,8 +25,8 @@
                         <!-- Curabitur dapibus tristique enim a imperdiet. Etiam
                         tristique sem sed condimentum posuere. </p> -->
                     <div class="tm-next">
-                        <a href="" class="tm-intro-text tm-btn-primary btn-block">
-                            <i class="fa fa-edit"></i> Pendaftaran Anggota
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdIsjfcjwO32UH6IyGDbqS7FiAzOygFWSOiFgDs7e3pgUqGYA/viewform?usp=header" target="_blank" class="tm-intro-text tm-btn-primary btn-block">
+                            <i class="fa fa-edit"></i> Gabung Anggota
                         </a>
                     </div>
                 </div>

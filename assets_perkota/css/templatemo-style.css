@@ -89,6 +89,19 @@ a:focus {
   background-color: #bd7c7b;
 }
 
+.tm-btn-daftar {
+  color: white;
+  background-color: #c57e7d;
+  padding: 5px 10px;
+  border-radius: 50px;
+}
+
+.tm-btn-daftar:hover,
+.tm-btn-daftar:focus {
+  color: white;
+  background-color: #bd7c7b;
+}
+
 /* Navbar */
 
 .tm-navbar {
