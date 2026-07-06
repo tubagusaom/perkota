@@ -25,8 +25,11 @@ $route['gambar/(:any)'] = "welcome/$1";
 
 $route['tamansari-garden'] = "tamansari_garden";
 
-$route['daftar-merchant'] = "welcome/daftar_merchant";
-$route['daftar-buyer'] = "welcome/daftar";
+$route['daftar-member'] = "pendaftaran/daftar";
+$route['qr-payment'] = "pendaftaran/qr_payment";
+
+// $route['daftar-merchant'] = "welcome/daftar_merchant";
+// $route['daftar-buyer'] = "welcome/daftar";
 $route['produk-lainnya'] = "welcome/tampil_lainnya";
 
 
