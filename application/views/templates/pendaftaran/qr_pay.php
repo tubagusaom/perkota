@@ -38,7 +38,7 @@
 </style>
 
 <div class="box">
-    <img class="img" src="https://raw.githubusercontent.com/Betty-edit/QR-CODE-coding-using-HTML-and-CSS/refs/heads/main/image-qr-code.png" alt="Qr-code">
+    <img class="img" src="<?=base_url() ?>assets_perkota/images/qr-perkota.png" alt="Qr-code">
     <h1>Improve your front-end skills by building projects</h1>
     <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
 </div>
