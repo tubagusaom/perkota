@@ -18,7 +18,7 @@ $route['gambar/(:any)'] = "welcome/$1";
 
 // $route['uji_kompetensi/(:any)'] = "welcome/uji_kompetensi/$1";
 
-// $route['uji_kompetensi'] = "welcome/uji_kompetensi/1";
+$route['uji_kompetensi'] = "welcome/uji_kompetensi/1";
 // $route['dasar_hukum_pendirian_lsp_bnsp.html'] = "profile/index/111";
 // $route['proses_sertifikasi_lsp_jmkp.html'] = "profile/index/118";
 // $route['uji_kompetensi.html'] = "welcome/uji_kompetensi";

@@ -51,11 +51,12 @@
     <script type="text/javascript">
         var base_url = "<?php echo base_url() ?>";
     </script>
-
+    
     <script src="<?php echo base_url() ?>assets/js/jquery.v2.min.js" type="text/javascript"></script>
     <script src="<?php echo base_url() ?>assets/js/bootstraps/bootstrap.min.js" type="text/javascript"></script>
     <script src="<?php echo base_url() ?>assets/js/bootstraps/bootbox.min.js" type="text/javascript"></script>
     <script src="<?php echo base_url() ?>assets/js/public/bootstrap-datepicker.js" type="text/javascript"></script>
+    
 
 </head>
 

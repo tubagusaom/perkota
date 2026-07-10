@@ -1045,7 +1045,15 @@
 
 
 
+    function uji_kompetensi($id=""){
+      $data['aplikasi'] = $this->db->get('r_konfigurasi_aplikasi')->row();
 
+      $this->load->model('welcome_model');
+      // $idlsp = kode_tbl();
+      // $data['data_skema'] = $this->welcome_model->data_skema($idlsp);
+
+      $this->load->view('uji_kompetensi/ujikom',$data);
+    }
 
 
       // function uji_kompetensi($id=""){

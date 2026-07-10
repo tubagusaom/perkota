@@ -161,7 +161,7 @@
             <div class="stepwizard" style="margin-bottom: 20px;">
                 <div class="stepwizard-row setup-panel">
                     <div class="stepwizard-step">
-                        <a href="#step-1" type="button" class="btn btn-primary btn-circle">1</a>
+                        <a href="#step-4" type="button" class="btn btn-primary btn-circle">1</a>
                         <p>Step 1</p>
                     </div>
                     <div class="stepwizard-step">
