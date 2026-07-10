@@ -5,7 +5,7 @@
 
     <head>
         <meta charset="utf-8" />
-        <title><?php echo $this->config->item('title') ?> - Home</title>
+        <title><?php echo $this->config->item('title') ?> - Beranda</title>
 
         <!-- Favicon -->
         <link rel="shortcut icon" href="<?= base_url() ?>assets_perkota/images/logo_perkota.png" type="image/x-icon" />
@@ -127,17 +127,8 @@
                                     </li>
 
                                     <?php
-                                      $jenisuser=$this->auth->get_user_data()->jenis_user;
-
-                                      if ($jenisuser == 1) {
+                                        $jenisuser=$this->auth->get_user_data()->jenis_user;
                                     ?>
-
-                                    <li>
-                                        <a href="#">
-                                            <i class="icon-calendar"></i> Jadwal Uji </a>
-                                    </li>
-
-                                    <?php }else { echo ""; } ?>
 
                                     <li class="divider"> </li>
                                     <li>
@@ -168,13 +159,13 @@
                     <!-- DOC: Change data-auto-speed="200" to adjust the sub menu slide up/down speed -->
                     <div class="page-sidebar navbar-collapse collapse">
                         <?php
-                          if ($jenisuser == 1) {
-                            $this->load->view('templates/responsive/menu');
-                          }elseif ($jenisuser == 2) {
-                            $this->load->view('templates/responsive/menu_asesor');
-                          }else {
-                            echo "";
-                          }
+                            if ($jenisuser == 1) {
+                                $this->load->view('templates/responsive/menu');
+                            }elseif ($jenisuser == 2) {
+                                $this->load->view('templates/responsive/menu');
+                            }else {
+                                echo "";
+                            }
                         ?>
                     </div>
                 </div>

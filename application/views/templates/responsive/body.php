@@ -7,7 +7,7 @@
           <i class="fa fa-circle"></i>
         </li>
         <li>
-          <span>Dashboard Sertifikasi</span>
+          <span>Dashboard</span>
         </li>
       </ul>
       <div class="page-toolbar">
@@ -26,7 +26,7 @@
           <table class="table">
             <thead>
               <tr>
-                <th colspan="4"><b>Jadwal Uji Kompetensi</b></th>
+                <!-- <th colspan="4"><b>Jadwal Uji Kompetensi</b></th> -->
               </tr>
             </thead>
             <tbody>
