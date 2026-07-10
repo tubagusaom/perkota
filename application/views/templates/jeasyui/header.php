@@ -13,11 +13,11 @@
     <meta name="product" content="Marketplace <?=$aplikasi->singkatan_unit?>">
     <meta name="description" content="Marketplace <?=$aplikasi->singkatan_unit?>">
     <meta name="author" content="tera_byte">
-    <meta name="keywords" content="<?=$aplikasi->singkatan_unit?>, Home Depo belanja puas">
+    <meta name="keywords" content="<?=$aplikasi->singkatan_unit?>, Perhimpunan Konsorsium Kota Tua ">
 	<meta charset="utf-8">
 	<title><?php echo $this->config->item('title') ?> - Home</title>
-  	<link href='<?=base_url()?>assets_tv/images/logo_mitraone_tv.png' rel='icon' type='image/x-icon'/>
-	<link rel="apple-touch-icon" href="<?=base_url()?>assets_tv/images/logo_mitraone_tv.png">
+	<link href='<?=base_url()?>assets_perkota/images/logo_perkota.png' rel='icon' type='image/x-icon'/>
+	<link rel="apple-touch-icon" href="<?=base_url()?>assets_perkota/images/logo_perkota.png">
 	<script type="text/javascript">
 		var base_url = "<?php echo base_url() ?>";
 	</script>

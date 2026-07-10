@@ -5,7 +5,13 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>Sistem Sertifikasi LSP</title>
+        <title><?php echo $this->config->item('title') ?> - Home</title>
+
+        <!-- Favicon -->
+        <link rel="shortcut icon" href="<?= base_url() ?>assets_perkota/images/logo_perkota.png" type="image/x-icon" />
+        <link rel="apple-touch-icon" href="<?= base_url() ?>assets_perkota/images/logo_perkota.png">
+        <link rel="icon" href="<?= base_url() ?>assets_perkota/images/logo_perkota.png" type="image/x-icon">
+
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport" />
         <meta content="Preview page of Metronic Admin Theme #1 for statistics, charts, recent events and reports" name="description" />
@@ -40,7 +46,7 @@
             height:     100%;
             width:      100%;
             background: rgba( 255, 255, 255, .8 ) 
-                        url('http://lspstpbandung.id/assets/img/39.gif') 
+                        url('https://perkota.com/assets/img/39.gif') 
                         50% 50% 
                         no-repeat;
             display: none;
@@ -58,7 +64,7 @@
                     <!-- BEGIN LOGO -->
                     <div class="page-logo">
                         <a href="<?= base_url() ?>">
-                            <img class="img-rounded"  src="<?= base_url() . 'assets/img/logo49.png' ?>" /> </a>
+                            <img class="img-rounded"  src="<?= base_url() . 'assets_perkota/images/logo49.png' ?>" /> </a>
                         <div class="menu-toggler sidebar-toggler">
                             <span></span>
                         </div>

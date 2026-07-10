@@ -7,7 +7,7 @@
 					<tr>
 						<td>
 							<a href="">
-								<img src="<?=base_url()?>assets_tv/images/logo_mitraone_tv.png" style="width:50px;margin:0px; padding: 0px; margin-top: 0px;margin-left: 15px; float: left;border:0px;"/>
+								<img src="<?=base_url()?>assets_perkota/images/logo_perkota.png" style="width:50px;margin:0px; padding: 0px; margin-top: 0px;margin-left: 15px; float: left;border:0px;"/>
 							</a>
 						</td>
 					</tr>
@@ -18,7 +18,7 @@
 					<a href="javascript: void(0);" class="easyui-menubutton" iconCls="icon-person" menu="#mm1"><?php echo $nama_user ?></a>
 					<a href="<?php echo base_url() ?>home/about" class="easyui-menubutton" iconCls="icon-help" menu="#help-menu"> Bantuan</a>
 					<a href="javascript: void(0);" onclick="detail_pesan()" class="easyui-linkbutton" iconCls="icon-email"> <?=$unread_message?> Pesan</a>
-          <a href="<?php echo base_url() ?>users/logout" class="easyui-linkbutton" iconCls="icon-logout"> Logout&nbsp;&nbsp;</a>
+					<a href="<?php echo base_url() ?>users/logout" class="easyui-linkbutton" iconCls="icon-logout"> Logout&nbsp;&nbsp;</a>
 					<div id="mm1" style="width:150px;">
 						<div id="role-btn">Role: <?php echo $rolename ?></div>
 						<div class="menu-sep"></div>
@@ -26,14 +26,13 @@
 					</div>
 					<div id="help-menu" style="width:150px;">
 						<div>FAQ</div>
-
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div data-options="region:'south',split:true" style="height:50px;">
-		<div class="x-form-copyright" style="bottom: 10px;"> &copy;2025 <?=$aplikasi->singkatan_unit?>, Developed By <a href="https://terabytee.my.id" target="_blank">terabytee</a> Team </div>
+		<div class="x-form-copyright" style="bottom: 10px;"> &copy;2026 <?=$aplikasi->singkatan_unit?>, Developed By <a href="https://terabytee.my.id" target="_blank">terabytee</a> Team </div>
 	</div>
 	<div data-options="region:'west',split:true" title="" style="width:250px;" id="west-layout">
 		<div class="easyui-accordion" id="accordion-menu" data-options="fit:true,border:false">
@@ -53,7 +52,7 @@
 									<div class="form-intro-container">
 										<div class="form-intro-label"><?=$aplikasi->singkatan_unit?></div>
 										<div class="form-intro-outersep">
-											<div class="form-intro-sepx"> </div>
+											<div class="form-intro-sepx"></div>
 										</div>
 									</div>
 								</div>

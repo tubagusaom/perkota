@@ -20,7 +20,7 @@ class Home extends MY_Controller {
             $template_bottom = 'templates/jeasyui/footer';
             $query_pesan = "";
             $menus = "";
-        } else if ($jenis_user == 1) {
+        } else if ($jenis_user == 1 || $jenis_user == 2) {
 
             $template_header = 'templates/responsive/header';
             $template_body = 'templates/responsive/body';

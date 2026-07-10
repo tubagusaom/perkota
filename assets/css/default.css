@@ -7,7 +7,7 @@ body{
 {
 	background-color: #fff;
     /* background-image: url("../img/login-bg.png"); */
-	  background-image: url("../img/welcome.png");
+    background-image: url("../img/welcome.png");
     background-position: left bottom;
     background-repeat: no-repeat;
 	overflow: hidden;
@@ -21,7 +21,7 @@ body{
 }
 .form-intro
 {
-    margin: 30px 0 0 75px;
+    margin: 20px 0 0 75px;
     width: 300px;
 	font: 11px tahoma,arial,helvetica,sans-serif;
 }

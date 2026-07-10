@@ -38,7 +38,9 @@
 </style>
 
 <div class="box">
-    <img class="img" src="<?=base_url() ?>assets_perkota/images/qr-perkota.png" alt="Qr-code">
-    <h1>Improve your front-end skills by building projects</h1>
+    <img class="img" src="<?=base_url() ?>assets_perkota/images/qris_perkota.png" alt="Qr-code">
+    <a href="<?=base_url() ?>assets_perkota/images/qris-pay-perkota.png" download style="text-decoration: none;">
+        <h1>Pindai atau Unduh QR</h1>
+    </a>
     <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
 </div>
