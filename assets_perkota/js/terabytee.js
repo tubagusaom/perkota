@@ -13,6 +13,7 @@ const Destination = document.querySelector('#destination');
 const Events = document.querySelector('#events');
 const Vtour = document.querySelector('#virtual-tour');
 const Cus = document.querySelector('#contact-us');
+const memberShip = document.querySelector('#membership');
 
 // const Pdaftar = document.querySelector('#pendafataran');
 
@@ -43,6 +44,17 @@ Vtour.addEventListener('click', event => {
     Homepage.classList.remove("active_tb");
     Destination.classList.remove("active_tb");
     Events.classList.remove("active_tb");
+    Cus.classList.remove("active_tb");
+});
+
+memberShip.addEventListener('click', event => {
+    document.getElementById('member').scrollIntoView({ behavior: 'smooth' });
+
+    Introduction.classList.remove("active_tb");
+    Homepage.classList.remove("active_tb");
+    Destination.classList.remove("active_tb");
+    Events.classList.remove("active_tb");
+    Vtour.classList.remove("active_tb");
     Cus.classList.remove("active_tb");
 });
 

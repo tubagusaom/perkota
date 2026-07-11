@@ -134,8 +134,8 @@
             </div>
 
             <div class="tb-btn">
-                <a href="<?=base_url()?>kepgub_nomor_499_tahun_2026.pdf" class="tm-intro-text tm-btn-red" download>
-                    <i class="fa fa-download"></i> Kebgub DKI
+                <a id="membership" href="javascript:void(0)" class="tm-intro-text tm-btn-red">
+                    <i class="fa fa-users"></i> Keangotaan
                 </a>
             </div>
         </div>

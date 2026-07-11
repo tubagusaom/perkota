@@ -7,9 +7,9 @@
                 <!-- <video src="<?php echo base_url() ?>assets_perkota/video/0615.mp4" autoplay class="img-fluid tm-intro-img img-tb"></video> -->
 
                 <video class="img-fluid tm-intro-img img-tb" controls>
-                 <source src="<?php echo base_url() ?>assets_perkota/video/0615_4.mp4" type="video/mp4">
-                 <!-- <source src="movie.ogg" type="video/ogg"> -->
-                Your browser does not support the video tag.
+                    <source src="<?php echo base_url() ?>assets_perkota/video/0615_4.mp4" type="video/mp4">
+                    <!-- <source src="movie.ogg" type="video/ogg"> -->
+                    Your browser does not support the video tag.
                 </video>
             </div>
             <div class="col-lg-6">
@@ -26,8 +26,8 @@
                         <!-- Curabitur dapibus tristique enim a imperdiet. Etiam
                         tristique sem sed condimentum posuere. </p> -->
                     <div class="tm-next">
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdIsjfcjwO32UH6IyGDbqS7FiAzOygFWSOiFgDs7e3pgUqGYA/viewform?usp=header" target="_blank" class="tm-intro-text tm-btn-primary btn-block">
-                            <i class="fa fa-edit"></i> Gabung Anggota
+                        <a href="<?=base_url()?>kepgub_nomor_499_tahun_2026.pdf" class="tm-intro-text tm-btn-primary btn-block" download>
+                            <i class="fa fa-download"></i> Kebgub DKI
                         </a>
                     </div>
                 </div>
@@ -91,6 +91,78 @@
         </div>
     </div>
 
+</section>
+
+<section id="member" class="tm-section-pad-top">
+    <div class="container">
+
+        <div class="row mb-5">
+            <div class="text-center col-12">
+                <h2 class="tm-text-primary tm-section-title mb-4">Keanggotaan</h2>
+                <p class="mx-auto tm-work-description">
+                    "keuntungan yg didapat"
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-4">
+                <b class="text-center tm-icon">&#10112;</b>
+                <h4 class="text-center tm-text-primary mb-4">Update informasi kebijakan pemprof.</h4>
+                <!-- <p>
+                    Update informasi kebijakan pemprof.
+                </p> -->
+            </div>
+
+            <div class="col-lg-4 mt-5 mt-lg-0">
+                <b class="text-center tm-icon">&#x2781;</b>
+                <h4 class="text-center tm-text-primary mb-4">Tarif PBB tidak masuk kedalam komersil.</h4>
+                <!-- <p class="text-center">
+                    Tarif PBB tidak masuk kedalam komersil.
+                </p> -->
+            </div>
+            <div class="col-lg-4 mt-5 mt-lg-0">
+                <b class="text-center tm-icon">&#x2782;</b>
+                <h4 class="text-center tm-text-primary mb-4">Bersinergi dan berkolaborasi dalam program revitalisasi.</h4>
+                <!-- <p>
+                    Bersinergi dan berkolabi dalam program revitalissai.
+                </p> -->
+            </div>
+
+            <div class="col-lg-12 pt-5 mt-lg-0">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdIsjfcjwO32UH6IyGDbqS7FiAzOygFWSOiFgDs7e3pgUqGYA/viewform?usp=header" class="tm-intro-text tm-btn-primary btn-block" target="_blank">
+                            <i class="fa fa-edit"></i> Daftar Anggota
+                        </a>
+            </div>
+        </div>
+
+        <!-- <div class="wrapper">
+            <div class="carousel owl-carousel">
+            <div class="card card-img card-1">
+                <a href="https://www.jakarta.go.id/" target="_blank">
+                    <img src="<?php echo base_url() ?>assets_perkota/images/logo_dki.png" alt="perkota" class="img-fluid">
+                </a>
+            </div>
+            <div class="card card-img card-2">
+                <a href="https://www.lrtjakarta.co.id/" target="_blank">
+                    <img src="<?php echo base_url() ?>assets_perkota/images/lrt_jakarta.png" alt="perkota" class="img-fluid">
+                </a>
+            </div>
+            <div class="card card-img card-3">
+                <a href="https://www.jakartamrt.co.id/" target="_blank">
+                    <img src="<?php echo base_url() ?>assets_perkota/images/mrt_jakarta.png" alt="perkota" class="img-fluid">
+                </a>
+            </div>
+            <div class="card card-img card-4">
+                <a href="https://kadin.id/" target="_blank">
+                    <img src="<?php echo base_url() ?>assets_perkota/images/kadin-jakarta.png" alt="perkota" class="img-fluid">
+                </a>
+            </div>
+            <!-- <div class="card card-5">
+                E
+            </div> -->
+        </div>
+    </div> -->
 
 </section>
 
