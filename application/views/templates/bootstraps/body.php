@@ -130,9 +130,10 @@
             </div>
 
             <div class="col-lg-12 pt-5 mt-lg-0">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdIsjfcjwO32UH6IyGDbqS7FiAzOygFWSOiFgDs7e3pgUqGYA/viewform?usp=header" class="tm-intro-text tm-btn-primary btn-block" target="_blank">
-                            <i class="fa fa-edit"></i> Daftar Anggota
-                        </a>
+                <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdIsjfcjwO32UH6IyGDbqS7FiAzOygFWSOiFgDs7e3pgUqGYA/viewform?usp=header" class="tm-intro-text tm-btn-primary btn-block" target="_blank"> -->
+                <a href="<?=base_url()?>daftar-member" class="tm-intro-text tm-btn-primary btn-block" target="_blank">
+                    <i class="fa fa-edit"></i> Daftar Anggota
+                </a>
             </div>
         </div>
 
