@@ -100,7 +100,7 @@
             <div class="text-center col-12">
                 <h2 class="tm-text-primary tm-section-title mb-4">Keanggotaan</h2>
                 <p class="mx-auto tm-work-description">
-                    "keuntungan yg didapat"
+                    "Keuntungan yg didapat"
                 </p>
             </div>
         </div>
