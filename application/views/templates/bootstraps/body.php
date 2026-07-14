@@ -107,7 +107,7 @@
 
         <div class="row">
             <div class="col-lg-4">
-                <b class="text-center tm-icon">&#10112;</b>
+                <div class="text-center tm-icon">&#10112;</div>
                 <h4 class="text-center mb-4">Update informasi kebijakan pemprof.</h4>
                 <!-- <p>
                     Update informasi kebijakan pemprof.
@@ -115,14 +115,14 @@
             </div>
 
             <div class="col-lg-4 mt-5 mt-lg-0">
-                <b class="text-center tm-icon">&#x2781;</b>
+                <div class="text-center tm-icon">&#x2781;</div>
                 <h4 class="text-center mb-4">Tarif PBB tidak masuk kedalam komersil.</h4>
                 <!-- <p class="text-center">
                     Tarif PBB tidak masuk kedalam komersil.
                 </p> -->
             </div>
             <div class="col-lg-4 mt-5 mt-lg-0">
-                <b class="text-center tm-icon">&#x2782;</b>
+                <div class="text-center tm-icon">&#x2782;</div>
                 <h4 class="text-center mb-4">Bersinergi dan berkolaborasi dalam program revitalisasi.</h4>
                 <!-- <p>
                     Bersinergi dan berkolabi dalam program revitalissai.
