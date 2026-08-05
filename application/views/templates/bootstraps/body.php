@@ -122,7 +122,7 @@
                 </p> -->
             </div>
             <div class="col-lg-4 mt-5 mt-lg-0">
-                <div class="text-center tm-icon">&#x2782;</div>
+                <b class="text-center tm-icon">&#x2782;</b>
                 <h4 class="text-center mb-4">Bersinergi dan berkolaborasi dalam program revitalisasi.</h4>
                 <!-- <p>
                     Bersinergi dan berkolabi dalam program revitalissai.
